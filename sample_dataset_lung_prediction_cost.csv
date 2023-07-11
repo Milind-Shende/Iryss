@@ -1,0 +1,1001 @@
+AGE,SEX,RACE,HOSPID,DRG,NPR,NCHRONIC,ZIPINC_QRTL,PAY1,PAY2,CM_AIDS,CM_ALCOHOL,CM_ANEMDEF,CM_ARTH,CM_BLDLOSS,CM_CHF,CM_DRUG,DXn,TRAN_IN,TRAN_OUT,TOTCHG
+56,Other,Black,2,ICD-10-CM,1365516690,1,3,Medicare,None,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,43000
+19,Male,Other,9,ICD-10-CM,6951096330,1,2,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,4,Not a transfer,Not a transfer,47500
+76,Male,White,3,ICD-10-CM/PCS,5600059825,1,2,Medicare,None,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,3000
+65,Male,Hispanic,2,ICD-9-CM,6280085793,2,3,Medicare,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,31000
+25,Female,Native American,9,ICD-10-CM,6448432997,2,3,Medicare,Secondary Health Insurance,no,no,no,no,yes,yes,current,4,Not a transfer,Not a transfer,46000
+79,Female,Black,7,ICD-9-CM,4261136509,2,2,Medicare,Secondary Health Insurance,no,yes,no,no,yes,no,current,3,Not a transfer,Not a transfer,31000
+79,Other,Black,6,ICD-10-CM/PCS,5156503847,2,1,Medicare,Secondary Health Insurance,no,no,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to acute are hospital,2000
+28,Male,Other,1,ICD-10-PCS,1998605661,1,3,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,67000
+7,Male,Asian or Pacific Islander,5,ICD-10-CM,6396467750,2,2,Medicaid,None,no,no,no,no,yes,yes,never,3,Not a transfer,Transferred out to acute are hospital,50000
+26,Other,Native American,3,ICD-9-CM,1268713951,1,2,Medicaid,Government Programs,no,no,no,no,yes,no,current,4,Not a transfer,Transferred out to another health facility,37000
+57,Male,Native American,1,ICD-9-CM,8769697365,2,1,Medicaid,COBRA Coverage,no,no,no,yes,yes,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,39500
+6,Male,Black,4,ICD-10-CM/PCS,6766617023,2,1,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,yes,never,3,Transferred from acute care hospital,Transferred out to another health facility,8000
+34,Female,White,2,ICD-10-CM,9008649086,1,1,Medicaid,None,yes,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,49000
+42,Other,Asian or Pacific Islander,2,ICD-10-PCS,7376042113,1,3,Private including HMO,Secondary Health Insurance,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,52000
+6,Other,Native American,3,ICD-9-CM,8747283039,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,33000
+68,Other,Black,8,ICD-10-CM,5884015556,2,2,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,34000
+64,Other,Native American,8,ICD-10-PCS,7466110887,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,60000
+25,Female,Asian or Pacific Islander,7,ICD-9-CM,9943291536,1,1,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,36000
+37,Female,Asian or Pacific Islander,6,ICD-9-CM,2973898486,1,2,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to another health facility,28500
+62,Male,Hispanic,9,ICD-10-PCS,8827067704,1,3,Medicaid,None,yes,yes,yes,no,yes,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,76000
+26,Male,Other,4,ICD-10-PCS,9834656361,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Not a transfer,Not a transfer,63000
+53,Male,Other,1,ICD-10-CM/PCS,2797904567,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,4000
+63,Male,Black,8,ICD-10-CM,7263915272,2,1,Medicaid,Secondary Health Insurance,no,no,no,yes,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,42000
+46,Female,Asian or Pacific Islander,7,ICD-10-CM,8408844684,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,43000
+64,Other,Hispanic,7,ICD-10-CM/PCS,3466546351,2,3,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,4000
+19,Female,Hispanic,3,ICD-9-CM,8160622450,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,32000
+66,Male,Native American,4,ICD-10-PCS,4703133582,1,3,Medicare,Government Programs,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to another health facility,66000
+66,Female,Native American,9,ICD-10-PCS,6643052302,1,2,Medicare,Secondary Health Insurance,no,no,yes,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,64000
+51,Other,Hispanic,6,ICD-10-PCS,5249660240,2,3,Self-Pay,Government Programs,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,67000
+66,Other,Native American,5,ICD-9-CM,6133201114,1,1,Medicare,COBRA Coverage,no,no,no,no,no,no,never,3,Transferred from another health facility,Transferred out to another health facility,26500
+55,Female,Asian or Pacific Islander,3,ICD-10-PCS,3101924945,1,1,Medicaid,Government Programs,no,no,no,no,yes,yes,former,3,Transferred from another health facility,Not a transfer,68000
+59,Female,White,9,ICD-10-PCS,4185325775,2,3,Medicaid,None,no,no,no,no,no,no,current,3,Not a transfer,Not a transfer,61000
+68,Female,Asian or Pacific Islander,5,ICD-10-CM/PCS,3115568062,2,3,Medicare,Employer-Sponsored Plans,no,no,yes,no,yes,yes,former,3,Transferred from acute care hospital,Not a transfer,9000
+7,Male,Hispanic,5,ICD-9-CM,8895139538,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,yes,current,4,Not a transfer,Not a transfer,40000
+55,Female,Hispanic,4,ICD-10-CM,4692789986,1,3,Medicare,Secondary Health Insurance,no,no,yes,no,no,no,current,4,Transferred from another health facility,Not a transfer,40000
+11,Female,Asian or Pacific Islander,4,ICD-10-CM/PCS,5086424400,1,3,No charge,Secondary Health Insurance,no,yes,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,7000
+25,Female,Native American,1,ICD-10-CM/PCS,1753730788,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,3500
+77,Other,Native American,7,ICD-10-CM,7733337554,2,2,Medicare,COBRA Coverage,no,yes,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to acute are hospital,45500
+43,Other,Other,9,ICD-10-CM/PCS,3488136696,1,2,Medicaid,None,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,7000
+22,Male,Hispanic,3,ICD-9-CM,8064127070,2,3,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,29000
+8,Male,Black,2,ICD-10-PCS,6282065539,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,59000
+64,Other,Other,3,ICD-9-CM,3841839263,2,1,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,34500
+18,Other,Native American,1,ICD-10-CM,2196762845,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,4,Not a transfer,Not a transfer,41500
+13,Other,Asian or Pacific Islander,6,ICD-10-CM,8841368801,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,yes,former,4,Not a transfer,Transferred out to another health facility,45500
+57,Female,Native American,7,ICD-10-CM/PCS,9460769991,1,3,Private including HMO,Employer-Sponsored Plans,no,no,no,yes,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,0
+6,Female,Asian or Pacific Islander,2,ICD-9-CM,5909152440,1,1,Medicaid,Government Programs,yes,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to another health facility,46000
+64,Other,Other,8,ICD-9-CM,6903639757,2,3,No charge,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,44000
+75,Female,Hispanic,6,ICD-10-CM,6872898434,1,3,Medicare,Secondary Health Insurance,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Not a transfer,46000
+48,Female,Native American,4,ICD-9-CM,4418477822,2,1,Medicaid,Employer-Sponsored Plans,no,yes,no,yes,yes,no,never,4,Transferred from another health facility,Transferred out to acute are hospital,41000
+12,Male,Asian or Pacific Islander,5,ICD-10-CM,1752148157,2,2,Medicaid,COBRA Coverage,no,yes,no,no,yes,no,current,4,Not a transfer,Not a transfer,48500
+51,Other,Hispanic,8,ICD-9-CM,4754109689,1,3,Other,Secondary Health Insurance,no,yes,no,no,no,yes,current,3,Not a transfer,Not a transfer,38000
+39,Other,Black,3,ICD-9-CM,4739495038,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,former,3,Transferred from acute care hospital,Transferred out to acute are hospital,28000
+40,Female,Asian or Pacific Islander,3,ICD-9-CM,8699136113,1,3,Medicaid,None,no,no,no,no,no,no,current,3,Not a transfer,Not a transfer,31000
+54,Other,Other,4,ICD-10-CM,3694357267,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,42000
+8,Male,Black,1,ICD-10-CM/PCS,1653043637,2,2,Medicaid,Secondary Health Insurance,no,no,no,yes,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,0
+6,Male,Black,9,ICD-9-CM,2508475790,1,1,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,32000
+10,Male,White,8,ICD-10-CM,1402767120,1,3,Self-Pay,COBRA Coverage,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,55500
+58,Other,Native American,8,ICD-10-CM,9761987180,2,3,Medicare,None,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,46000
+8,Other,Asian or Pacific Islander,6,ICD-9-CM,3010341286,2,3,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,35000
+58,Other,Black,7,ICD-9-CM,3002740720,2,3,Self-Pay,Secondary Health Insurance,yes,yes,yes,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,51000
+67,Other,White,6,ICD-10-CM/PCS,1663538959,2,1,Medicare,Secondary Health Insurance,no,yes,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,4000
+22,Other,Other,9,ICD-10-CM,7141739729,1,2,Medicaid,COBRA Coverage,no,no,no,no,yes,no,current,4,Not a transfer,Not a transfer,46500
+48,Male,Hispanic,3,ICD-10-CM,9588034918,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,former,4,Not a transfer,Transferred out to another health facility,39000
+38,Female,Asian or Pacific Islander,3,ICD-10-PCS,4304757855,2,3,Other,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,69000
+78,Male,Black,3,ICD-10-CM,7003787484,2,3,Medicare,COBRA Coverage,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,39500
+66,Other,Native American,3,ICD-10-CM/PCS,8849280605,1,2,Medicare,None,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,3000
+18,Male,White,9,ICD-10-PCS,6028154124,1,3,No charge,Government Programs,no,yes,yes,no,no,no,current,4,Not a transfer,Transferred out to another health facility,75000
+52,Other,Black,4,ICD-10-PCS,9720775124,1,1,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,66000
+19,Other,Native American,7,ICD-10-PCS,6173066388,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,58000
+76,Male,Black,9,ICD-9-CM,3192927655,1,2,Medicare,None,no,no,no,no,yes,no,current,4,Transferred from another health facility,Transferred out to another health facility,37000
+66,Other,Asian or Pacific Islander,7,ICD-9-CM,1215792086,2,1,Medicare,Employer-Sponsored Plans,yes,no,yes,yes,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,37000
+44,Female,Asian or Pacific Islander,9,ICD-10-CM,7662181280,2,1,Medicaid,Government Programs,no,no,no,no,no,yes,never,4,Transferred from acute care hospital,Not a transfer,46000
+57,Other,Asian or Pacific Islander,3,ICD-10-PCS,2881962803,2,1,Medicaid,COBRA Coverage,yes,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,75500
+28,Female,Other,4,ICD-10-CM/PCS,4604252341,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,0
+30,Female,Other,8,ICD-9-CM,1479288269,1,3,Self-Pay,Government Programs,no,no,yes,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,44000
+64,Other,White,6,ICD-10-CM/PCS,3612712376,2,1,Medicaid,None,yes,no,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,12000
+45,Male,Asian or Pacific Islander,5,ICD-10-CM/PCS,6978996413,1,2,Medicaid,Government Programs,no,yes,no,no,no,no,former,4,Transferred from acute care hospital,Transferred out to acute are hospital,5000
+33,Female,Native American,4,ICD-9-CM,2017620895,1,2,Medicaid,None,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,38000
+19,Male,Black,8,ICD-9-CM,8204348636,1,1,Medicaid,None,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,34000
+49,Female,Hispanic,1,ICD-9-CM,3430013268,1,2,Medicaid,None,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,43000
+69,Other,Native American,9,ICD-9-CM,5579144625,1,1,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,yes,former,3,Transferred from another health facility,Not a transfer,32000
+75,Other,Other,1,ICD-10-PCS,5377239460,1,2,Medicare,COBRA Coverage,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,56500
+13,Female,Other,8,ICD-10-PCS,4551330495,1,2,Medicaid,Government Programs,no,no,no,no,yes,no,current,4,Not a transfer,Transferred out to acute are hospital,67000
+5,Other,Native American,4,ICD-10-PCS,2006850274,2,1,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,67500
+12,Female,Other,9,ICD-10-PCS,5129578098,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,56000
+67,Other,Asian or Pacific Islander,5,ICD-10-CM,8163438142,2,3,Medicare,Government Programs,no,no,yes,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,47000
+15,Male,White,3,ICD-10-PCS,8209102482,2,1,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,never,4,Transferred from another health facility,Not a transfer,70500
+12,Other,Black,9,ICD-9-CM,9362994806,1,1,Medicaid,COBRA Coverage,no,no,no,no,no,yes,former,4,Not a transfer,Transferred out to another health facility,35500
+39,Male,White,9,ICD-10-CM/PCS,4800423794,1,3,No charge,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,9000
+39,Other,Black,4,ICD-10-PCS,6486669017,2,1,Medicaid,None,yes,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,71000
+37,Male,Black,4,ICD-10-CM,2209531690,2,1,Medicaid,Government Programs,no,yes,no,no,yes,no,current,3,Not a transfer,Not a transfer,46000
+9,Other,White,8,ICD-9-CM,1044171571,2,3,No charge,Government Programs,no,no,yes,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,43000
+45,Male,Native American,2,ICD-10-CM/PCS,8370378527,2,1,Medicaid,Secondary Health Insurance,yes,no,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,10000
+32,Female,Black,9,ICD-10-CM/PCS,4033304168,1,1,Medicaid,None,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,6000
+11,Female,White,6,ICD-10-PCS,5634009447,1,3,Medicaid,Government Programs,no,yes,no,yes,no,yes,never,3,Not a transfer,Not a transfer,68000
+77,Male,Black,9,ICD-10-CM/PCS,6769801937,1,3,Medicare,Government Programs,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,0
+76,Other,Hispanic,8,ICD-10-PCS,5017875390,2,2,Medicare,Government Programs,no,no,no,no,no,no,never,3,Transferred from another health facility,Not a transfer,57000
+16,Male,Native American,7,ICD-10-PCS,9283405187,1,1,Medicaid,None,no,yes,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,63000
+38,Other,Asian or Pacific Islander,1,ICD-9-CM,5560432619,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,30000
+37,Female,Black,3,ICD-9-CM,9986620040,1,2,Medicaid,Government Programs,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Not a transfer,41000
+52,Other,Hispanic,2,ICD-10-CM,2918624280,2,3,Private including HMO,COBRA Coverage,yes,no,no,no,no,yes,former,3,Transferred from acute care hospital,Transferred out to acute are hospital,37500
+27,Female,Asian or Pacific Islander,5,ICD-9-CM,8137864681,1,1,Medicaid,None,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Not a transfer,40000
+66,Other,Asian or Pacific Islander,5,ICD-9-CM,4226281241,1,1,Medicare,Employer-Sponsored Plans,no,no,no,no,no,yes,never,4,Not a transfer,Transferred out to acute are hospital,33000
+41,Other,Black,5,ICD-10-PCS,9828758479,2,3,Private including HMO,Secondary Health Insurance,no,yes,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,48000
+48,Other,White,4,ICD-9-CM,1029540622,2,2,Medicaid,COBRA Coverage,no,no,no,yes,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,35500
+39,Male,Black,5,ICD-10-PCS,3849812148,2,3,No charge,Government Programs,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,72000
+69,Male,Hispanic,3,ICD-10-PCS,9141380435,2,1,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,former,4,Transferred from another health facility,Not a transfer,59000
+51,Female,Asian or Pacific Islander,1,ICD-9-CM,6113630296,2,3,Medicaid,Secondary Health Insurance,no,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,35000
+7,Female,Black,5,ICD-10-CM,6087957661,1,1,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,41000
+5,Male,White,9,ICD-10-CM,2846653912,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,yes,yes,yes,former,4,Not a transfer,Transferred out to acute are hospital,53000
+9,Female,Black,9,ICD-10-CM/PCS,4156482493,1,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,no,never,3,Not a transfer,Transferred out to another health facility,1000
+18,Male,Native American,4,ICD-10-CM/PCS,3282581472,1,2,Medicaid,COBRA Coverage,yes,no,yes,no,no,no,current,4,Transferred from another health facility,Not a transfer,10500
+31,Other,White,3,ICD-9-CM,3116643982,1,2,Medicaid,Secondary Health Insurance,yes,yes,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,33000
+13,Female,Hispanic,1,ICD-10-CM,6583208697,1,1,Medicaid,COBRA Coverage,no,no,no,no,yes,no,current,4,Not a transfer,Not a transfer,46500
+19,Female,Asian or Pacific Islander,2,ICD-10-PCS,7855119795,1,1,Medicaid,COBRA Coverage,yes,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,70500
+46,Male,Black,8,ICD-10-CM/PCS,1706116372,2,2,Medicaid,Government Programs,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,5000
+55,Female,White,1,ICD-10-PCS,7643007364,2,3,Private including HMO,None,no,yes,no,no,yes,no,current,3,Not a transfer,Transferred out to another health facility,58000
+67,Female,Native American,8,ICD-10-CM/PCS,9170801776,1,1,Medicare,Employer-Sponsored Plans,no,no,yes,no,yes,no,never,3,Not a transfer,Transferred out to another health facility,5000
+56,Other,White,7,ICD-9-CM,4526086619,1,2,Medicaid,Secondary Health Insurance,no,yes,no,no,no,no,never,4,Transferred from acute care hospital,Not a transfer,31000
+8,Female,Other,8,ICD-10-CM,6698539864,2,2,Medicaid,None,no,no,no,no,no,no,former,4,Not a transfer,Transferred out to acute are hospital,44000
+27,Other,Native American,6,ICD-10-CM/PCS,7772550892,2,3,Medicaid,None,no,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,5000
+19,Male,Hispanic,9,ICD-10-CM,2992786230,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to another health facility,48000
+47,Female,Asian or Pacific Islander,3,ICD-10-PCS,1509851703,2,2,Medicaid,None,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,65000
+33,Other,Hispanic,4,ICD-9-CM,6217079132,2,3,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,32000
+40,Male,Black,6,ICD-10-CM,1288768584,2,2,Medicaid,None,no,no,no,no,no,no,never,4,Transferred from another health facility,Not a transfer,44000
+17,Female,White,8,ICD-9-CM,8468375488,1,1,Medicaid,Government Programs,yes,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,36000
+36,Male,Other,5,ICD-10-CM,3439431034,2,3,No charge,Employer-Sponsored Plans,no,yes,no,no,no,yes,never,3,Transferred from another health facility,Transferred out to another health facility,52000
+75,Female,Native American,3,ICD-10-PCS,4516462517,1,2,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,65000
+63,Male,Native American,6,ICD-10-PCS,6410245064,1,3,Medicaid,COBRA Coverage,yes,yes,no,no,no,no,never,4,Not a transfer,Not a transfer,68500
+32,Male,White,4,ICD-9-CM,7147102676,1,1,Medicaid,Government Programs,no,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,31000
+70,Other,Other,9,ICD-10-PCS,5511216886,1,3,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,56000
+46,Male,White,3,ICD-10-CM/PCS,9816559667,1,1,Medicaid,None,no,no,no,no,no,yes,former,4,Not a transfer,Transferred out to acute are hospital,9000
+49,Female,Black,4,ICD-10-CM,3972165707,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,40000
+66,Female,Hispanic,7,ICD-10-PCS,2966790070,1,1,Medicare,Secondary Health Insurance,no,yes,yes,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,63000
+61,Other,Native American,7,ICD-10-CM/PCS,6267870247,1,2,Medicaid,Government Programs,no,no,yes,no,no,yes,never,4,Not a transfer,Transferred out to another health facility,10000
+10,Female,Black,4,ICD-9-CM,3636982382,1,2,Medicaid,COBRA Coverage,no,no,no,no,yes,no,never,4,Not a transfer,Transferred out to acute are hospital,36500
+32,Female,Hispanic,6,ICD-10-CM/PCS,2086017344,2,1,Medicaid,None,yes,no,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,11000
+32,Female,Black,3,ICD-9-CM,3480909502,2,2,Medicaid,Government Programs,no,no,yes,no,yes,yes,current,4,Transferred from another health facility,Not a transfer,44000
+48,Male,Other,6,ICD-9-CM,6837757109,2,3,Medicare,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,31000
+34,Male,Native American,2,ICD-10-CM,8832097172,2,2,Medicaid,Government Programs,no,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to another health facility,51000
+66,Female,White,8,ICD-10-CM,7345171621,2,1,Medicare,None,no,no,yes,no,no,no,former,4,Transferred from acute care hospital,Transferred out to acute are hospital,45000
+79,Other,White,2,ICD-10-CM/PCS,8755484846,2,3,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,6000
+66,Male,Hispanic,7,ICD-10-CM,2409520144,2,3,Medicare,None,no,no,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,43000
+5,Other,Asian or Pacific Islander,9,ICD-10-CM,6192870489,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,38000
+31,Female,Other,1,ICD-10-CM,1363733648,1,2,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,47000
+66,Female,Hispanic,8,ICD-10-CM/PCS,7299398992,2,1,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,0
+7,Male,Asian or Pacific Islander,7,ICD-10-PCS,4611675397,1,3,No charge,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Not a transfer,74000
+74,Female,Black,6,ICD-10-CM,6931312366,1,1,Medicare,Secondary Health Insurance,yes,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,39000
+76,Male,Other,6,ICD-10-CM,2651891994,2,2,Medicare,Government Programs,no,yes,no,no,yes,yes,current,3,Not a transfer,Transferred out to another health facility,48000
+31,Female,Black,6,ICD-10-CM/PCS,2971922672,1,3,Medicare,Secondary Health Insurance,yes,no,no,no,no,yes,never,3,Transferred from another health facility,Not a transfer,4000
+13,Female,Native American,9,ICD-10-PCS,5010423253,1,1,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,61000
+66,Male,Other,2,ICD-10-CM,8232151344,2,1,Medicare,COBRA Coverage,no,no,no,yes,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,46500
+41,Male,Asian or Pacific Islander,1,ICD-9-CM,5435236889,1,1,Medicaid,None,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,36000
+55,Male,Native American,6,ICD-10-CM/PCS,7046232083,2,1,Medicaid,Government Programs,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,4000
+48,Female,White,8,ICD-10-CM,5987396805,2,1,Medicaid,Government Programs,no,no,no,no,no,no,current,3,Transferred from another health facility,Not a transfer,39000
+28,Female,Asian or Pacific Islander,3,ICD-10-CM,9466028689,1,3,Medicare,Secondary Health Insurance,no,no,no,no,no,no,former,4,Not a transfer,Transferred out to another health facility,37000
+63,Other,Hispanic,1,ICD-9-CM,4069841933,1,1,Medicaid,Government Programs,no,yes,no,no,no,yes,current,4,Not a transfer,Not a transfer,38000
+36,Male,White,9,ICD-9-CM,5588959756,1,3,Private including HMO,Employer-Sponsored Plans,no,no,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to acute are hospital,25000
+56,Female,White,1,ICD-10-CM/PCS,9919801168,2,1,Medicaid,Government Programs,no,no,no,yes,no,no,current,4,Not a transfer,Not a transfer,6000
+66,Female,Hispanic,3,ICD-10-CM/PCS,8875441071,2,2,Medicare,Secondary Health Insurance,no,yes,no,no,no,no,never,4,Not a transfer,Transferred out to another health facility,0
+62,Male,Other,8,ICD-9-CM,2603989648,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,30000
+56,Other,White,3,ICD-10-CM/PCS,5749694016,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,2000
+16,Male,Asian or Pacific Islander,4,ICD-9-CM,8197604665,1,2,Medicaid,Secondary Health Insurance,yes,no,no,no,yes,yes,current,3,Not a transfer,Transferred out to another health facility,40000
+43,Other,Native American,8,ICD-10-CM,1301112175,2,3,Private including HMO,COBRA Coverage,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,37500
+6,Female,White,1,ICD-9-CM,6075701571,1,1,Medicaid,None,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,36000
+7,Other,Asian or Pacific Islander,6,ICD-9-CM,6017396507,1,3,No charge,Government Programs,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,37000
+60,Female,Black,1,ICD-10-PCS,7687438110,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,58500
+63,Male,Asian or Pacific Islander,1,ICD-9-CM,9101089031,2,2,Medicaid,Government Programs,no,no,no,no,yes,yes,current,4,Transferred from another health facility,Not a transfer,41000
+6,Male,Native American,8,ICD-9-CM,3705059128,1,3,Medicaid,COBRA Coverage,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,32500
+6,Male,Asian or Pacific Islander,4,ICD-10-PCS,8526491593,2,2,Medicaid,Government Programs,no,yes,no,no,yes,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,69000
+58,Other,Hispanic,1,ICD-10-CM/PCS,7576857745,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,4,Not a transfer,Not a transfer,6000
+5,Female,Native American,7,ICD-10-PCS,8204541636,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,60000
+23,Male,Other,5,ICD-10-CM,2840212700,2,3,No charge,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from another health facility,Not a transfer,51000
+6,Male,Black,5,ICD-10-PCS,8836045482,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,former,4,Transferred from another health facility,Not a transfer,61000
+57,Female,Hispanic,1,ICD-10-CM,5923906220,1,1,Medicaid,COBRA Coverage,no,no,no,yes,no,yes,former,3,Transferred from acute care hospital,Not a transfer,45500
+48,Male,Other,6,ICD-10-CM/PCS,7615523205,1,1,Medicaid,None,no,yes,no,no,no,yes,former,4,Transferred from another health facility,Transferred out to another health facility,11000
+36,Female,Asian or Pacific Islander,9,ICD-10-PCS,2852426733,2,1,Medicaid,COBRA Coverage,yes,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,65500
+74,Female,Native American,9,ICD-10-PCS,4930155926,2,2,Medicare,Secondary Health Insurance,no,yes,no,no,yes,no,current,3,Not a transfer,Transferred out to acute are hospital,61000
+36,Female,Black,8,ICD-10-CM/PCS,6373731103,2,1,Medicaid,None,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Not a transfer,14000
+72,Female,Hispanic,5,ICD-10-CM,8920831633,1,3,Medicare,Government Programs,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,39000
+59,Female,Other,1,ICD-10-PCS,7502990431,2,3,Medicare,None,yes,yes,no,no,yes,yes,current,4,Not a transfer,Transferred out to another health facility,78000
+79,Other,Other,9,ICD-10-CM,2324861156,2,2,Medicare,COBRA Coverage,no,no,no,yes,yes,yes,former,3,Not a transfer,Not a transfer,48500
+60,Male,Black,1,ICD-10-PCS,7756164819,2,3,Self-Pay,Employer-Sponsored Plans,no,yes,yes,no,no,no,current,4,Not a transfer,Transferred out to another health facility,74000
+21,Other,Asian or Pacific Islander,8,ICD-9-CM,6691738735,2,1,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,36000
+42,Male,Black,5,ICD-10-PCS,5322365066,1,2,Medicaid,COBRA Coverage,yes,no,no,no,no,yes,never,3,Transferred from another health facility,Transferred out to acute are hospital,67500
+28,Other,Other,3,ICD-10-CM/PCS,4128329000,1,1,Medicaid,Government Programs,yes,yes,yes,no,no,no,never,3,Transferred from another health facility,Transferred out to acute are hospital,10000
+73,Female,White,7,ICD-10-CM/PCS,2718898643,2,2,Medicare,None,yes,no,no,yes,yes,no,current,4,Not a transfer,Not a transfer,16000
+74,Male,Hispanic,7,ICD-10-CM,8659206511,1,2,Medicare,Secondary Health Insurance,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,39000
+15,Male,Black,9,ICD-10-PCS,5253444858,1,1,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,67500
+20,Other,Other,7,ICD-10-CM,5405646850,1,3,No charge,Employer-Sponsored Plans,no,no,no,no,no,yes,never,4,Transferred from acute care hospital,Not a transfer,53000
+77,Other,Asian or Pacific Islander,3,ICD-10-CM,3592136507,2,3,Medicare,None,no,yes,no,no,yes,yes,current,4,Not a transfer,Not a transfer,53000
+63,Male,Other,1,ICD-9-CM,8250100448,1,2,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,34500
+74,Other,Asian or Pacific Islander,8,ICD-9-CM,5812028016,1,1,Medicare,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,30000
+7,Other,Black,3,ICD-10-CM/PCS,1778176278,1,1,Medicaid,COBRA Coverage,no,yes,no,no,yes,no,current,4,Transferred from another health facility,Not a transfer,9500
+24,Other,Asian or Pacific Islander,8,ICD-10-CM,7969672786,2,2,Medicaid,None,yes,yes,yes,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,55000
+63,Female,Native American,8,ICD-10-CM/PCS,1956386478,2,3,Medicare,COBRA Coverage,no,no,no,no,yes,yes,current,3,Transferred from acute care hospital,Not a transfer,6500
+40,Female,Native American,5,ICD-10-PCS,2319484462,1,1,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,62000
+23,Other,Native American,1,ICD-10-CM,1688163739,1,3,Private including HMO,None,no,no,no,no,no,yes,never,3,Transferred from another health facility,Not a transfer,35000
+71,Other,White,7,ICD-10-CM,6029133548,2,3,Medicare,COBRA Coverage,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to another health facility,41500
+23,Female,Black,5,ICD-10-PCS,9151696077,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from another health facility,Not a transfer,63000
+24,Female,Other,8,ICD-10-PCS,5656292856,1,2,Medicaid,COBRA Coverage,no,yes,no,yes,yes,no,never,3,Transferred from another health facility,Transferred out to acute are hospital,68500
+75,Male,Other,9,ICD-10-CM/PCS,6983335737,1,3,Medicare,Government Programs,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,1000
+56,Male,White,7,ICD-10-CM/PCS,5725518710,2,1,Medicaid,Employer-Sponsored Plans,yes,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,4000
+37,Female,Asian or Pacific Islander,7,ICD-10-PCS,9661198760,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to another health facility,62000
+44,Other,White,1,ICD-10-CM/PCS,3842060109,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,2000
+43,Other,Asian or Pacific Islander,4,ICD-10-PCS,6299185762,2,3,Self-Pay,Secondary Health Insurance,no,yes,no,no,no,yes,never,3,Not a transfer,Transferred out to acute are hospital,70000
+5,Other,Asian or Pacific Islander,2,ICD-10-CM,9691758602,1,1,Medicaid,Government Programs,no,yes,no,yes,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,48000
+15,Other,Hispanic,2,ICD-10-CM,4586070932,1,1,Medicaid,None,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,45000
+61,Male,Other,2,ICD-9-CM,9481231532,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,37000
+54,Female,Native American,4,ICD-10-CM,1994178495,2,3,Medicare,Government Programs,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,41000
+27,Other,Asian or Pacific Islander,1,ICD-10-PCS,9024757823,1,1,Medicaid,COBRA Coverage,yes,yes,no,no,no,yes,former,3,Transferred from another health facility,Not a transfer,69500
+35,Male,Hispanic,4,ICD-10-CM/PCS,9274099019,1,2,Medicaid,Secondary Health Insurance,no,no,yes,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,7000
+46,Other,Other,2,ICD-9-CM,2802285865,2,1,Medicaid,Government Programs,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Not a transfer,34000
+11,Female,Native American,5,ICD-10-CM/PCS,5512389173,2,1,Medicaid,Government Programs,no,no,no,no,yes,yes,never,3,Transferred from another health facility,Transferred out to another health facility,9000
+20,Male,Asian or Pacific Islander,3,ICD-10-PCS,9759121226,1,1,Medicaid,None,no,no,yes,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,67000
+64,Female,Asian or Pacific Islander,8,ICD-10-CM,9712995828,1,2,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,42000
+6,Female,White,4,ICD-9-CM,4381736811,2,3,Medicare,None,yes,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,43000
+5,Male,White,1,ICD-10-PCS,9762841391,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to acute are hospital,61000
+52,Male,Other,1,ICD-9-CM,7821920843,2,3,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,former,4,Transferred from another health facility,Not a transfer,29000
+16,Male,Native American,3,ICD-9-CM,7632282753,1,1,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,never,4,Transferred from another health facility,Not a transfer,37500
+73,Male,Asian or Pacific Islander,9,ICD-10-CM,6477110586,1,3,Medicare,None,no,yes,no,no,yes,yes,former,3,Transferred from acute care hospital,Transferred out to another health facility,50000
+41,Male,Other,7,ICD-10-PCS,9807144423,1,1,Medicaid,None,no,no,yes,no,yes,no,former,4,Not a transfer,Transferred out to acute are hospital,72000
+36,Male,Other,2,ICD-10-CM/PCS,4574974205,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,0
+13,Male,Black,9,ICD-9-CM,1971002231,1,2,Medicaid,Employer-Sponsored Plans,yes,no,yes,yes,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,39000
+23,Other,White,2,ICD-9-CM,5704539343,2,1,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,former,3,Transferred from acute care hospital,Not a transfer,34500
+52,Female,Native American,3,ICD-10-CM/PCS,6744322396,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,0
+7,Male,Asian or Pacific Islander,2,ICD-10-PCS,1358736797,2,3,Other,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,68000
+24,Other,Other,3,ICD-9-CM,8526794185,1,3,No charge,Government Programs,no,no,no,no,yes,yes,never,4,Not a transfer,Transferred out to acute are hospital,49000
+28,Other,Asian or Pacific Islander,6,ICD-9-CM,9810239980,1,1,Medicaid,Secondary Health Insurance,yes,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,35000
+58,Other,Black,9,ICD-9-CM,2898835236,2,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,36000
+37,Female,Native American,9,ICD-10-PCS,2436242114,2,1,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,61000
+28,Male,Other,7,ICD-10-PCS,3456703593,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,yes,no,former,4,Transferred from another health facility,Transferred out to acute are hospital,64000
+79,Other,Asian or Pacific Islander,3,ICD-10-CM/PCS,4459305535,2,2,Medicare,COBRA Coverage,no,no,no,no,no,no,current,3,Transferred from another health facility,Not a transfer,0
+76,Female,White,4,ICD-10-PCS,4264866330,2,2,Medicare,None,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,63000
+40,Female,Black,6,ICD-10-PCS,1641021587,1,3,Self-Pay,None,no,no,no,yes,no,no,never,3,Not a transfer,Transferred out to another health facility,72000
+42,Female,Native American,5,ICD-10-CM,2151800133,2,2,Medicaid,Government Programs,no,no,no,no,no,no,former,4,Not a transfer,Not a transfer,42000
+29,Other,Black,2,ICD-10-CM/PCS,7049270677,1,3,No charge,None,no,no,yes,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,20000
+22,Male,White,6,ICD-9-CM,5538407876,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Not a transfer,Not a transfer,31000
+70,Other,Native American,3,ICD-10-PCS,5443885411,2,3,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,54000
+58,Other,Black,8,ICD-9-CM,6978210348,2,3,No charge,Employer-Sponsored Plans,yes,no,no,no,no,no,current,3,Not a transfer,Not a transfer,41000
+39,Male,Hispanic,2,ICD-9-CM,6125765772,1,3,Self-Pay,Government Programs,no,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to acute are hospital,49000
+65,Male,White,1,ICD-10-CM,6410920668,1,1,Medicare,Government Programs,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,37000
+45,Male,White,9,ICD-10-PCS,1987815654,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,59000
+37,Female,White,3,ICD-10-CM/PCS,6328042565,1,1,Medicaid,None,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,8000
+72,Male,Hispanic,1,ICD-10-PCS,7000035665,1,2,Medicare,COBRA Coverage,no,no,no,no,no,no,former,4,Transferred from another health facility,Transferred out to acute are hospital,59500
+37,Other,Hispanic,7,ICD-9-CM,1671376275,1,2,Medicaid,Government Programs,no,yes,no,no,no,yes,former,4,Transferred from acute care hospital,Not a transfer,38000
+18,Male,Asian or Pacific Islander,5,ICD-10-CM/PCS,8178053561,2,1,Medicaid,Secondary Health Insurance,yes,yes,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,9000
+25,Other,Other,5,ICD-10-PCS,5263106345,2,3,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,61500
+52,Female,Black,1,ICD-9-CM,1670880361,2,2,Medicaid,None,no,yes,no,yes,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,36000
+24,Other,Asian or Pacific Islander,9,ICD-9-CM,8704390109,1,3,No charge,Government Programs,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,37000
+12,Other,Black,7,ICD-10-CM,4719877820,2,1,Medicaid,Secondary Health Insurance,no,yes,yes,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,45000
+11,Male,Other,8,ICD-10-CM,7131007617,1,3,Medicaid,Secondary Health Insurance,no,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,45000
+71,Male,Hispanic,9,ICD-10-CM,6713529147,1,2,Medicare,Secondary Health Insurance,no,no,yes,no,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,40000
+21,Other,Other,6,ICD-9-CM,4347998723,2,2,Medicaid,Government Programs,no,no,yes,no,no,yes,never,4,Transferred from another health facility,Not a transfer,39000
+37,Male,Hispanic,5,ICD-10-PCS,9659514777,1,2,Medicaid,COBRA Coverage,no,no,yes,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,65500
+52,Female,Other,6,ICD-10-CM,4822148832,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,never,3,Not a transfer,Transferred out to another health facility,40000
+63,Female,Asian or Pacific Islander,2,ICD-10-PCS,4287210601,1,2,Medicaid,None,no,yes,no,no,yes,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,75000
+26,Male,Native American,4,ICD-10-CM,9012529431,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,never,3,Transferred from another health facility,Transferred out to another health facility,36000
+34,Female,Asian or Pacific Islander,3,ICD-10-CM/PCS,8189083306,1,3,Self-Pay,COBRA Coverage,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,7500
+42,Male,Black,7,ICD-10-CM/PCS,7885477313,1,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,7000
+55,Other,Asian or Pacific Islander,9,ICD-10-CM,3931454607,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,former,4,Transferred from another health facility,Transferred out to acute are hospital,43000
+58,Other,White,5,ICD-9-CM,7766116155,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,30000
+12,Female,Black,6,ICD-10-CM,7137776157,1,3,Medicare,None,no,no,no,no,yes,yes,former,3,Transferred from acute care hospital,Transferred out to acute are hospital,48000
+31,Male,Other,2,ICD-10-CM,8268606395,1,2,Medicaid,None,yes,no,no,no,no,yes,never,4,Transferred from acute care hospital,Not a transfer,53000
+31,Male,Black,3,ICD-9-CM,6297124135,1,1,Medicaid,Secondary Health Insurance,no,no,yes,no,no,yes,former,4,Transferred from acute care hospital,Not a transfer,36000
+25,Female,Native American,3,ICD-10-CM/PCS,3685772620,2,3,Other,Secondary Health Insurance,yes,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,8000
+34,Other,Hispanic,9,ICD-10-PCS,6234336297,2,3,Medicare,None,yes,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,66000
+32,Female,Other,7,ICD-10-CM,9847389092,1,3,Medicaid,COBRA Coverage,no,no,no,no,no,yes,never,3,Transferred from another health facility,Transferred out to acute are hospital,42500
+68,Other,Black,8,ICD-9-CM,5857495247,1,3,Medicare,Employer-Sponsored Plans,no,no,no,yes,no,no,never,4,Transferred from acute care hospital,Not a transfer,32000
+73,Male,Other,9,ICD-10-CM,3602737173,1,3,Medicare,Employer-Sponsored Plans,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to another health facility,41000
+65,Other,Other,6,ICD-9-CM,4648344531,2,1,Medicare,Secondary Health Insurance,no,no,no,yes,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,31000
+52,Female,Other,4,ICD-10-PCS,5488227178,2,3,Self-Pay,None,no,yes,no,no,yes,yes,never,3,Transferred from another health facility,Transferred out to acute are hospital,80000
+23,Male,Hispanic,1,ICD-10-PCS,4989421377,2,2,Medicaid,Government Programs,no,no,yes,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,62000
+8,Female,Asian or Pacific Islander,8,ICD-10-CM/PCS,2998606923,2,3,No charge,Government Programs,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,12000
+39,Female,Other,7,ICD-9-CM,5353732808,1,3,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,no,current,3,Not a transfer,Not a transfer,28000
+68,Other,White,2,ICD-9-CM,5645431135,2,3,Medicare,COBRA Coverage,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,29500
+53,Female,Native American,8,ICD-10-CM/PCS,2110642401,2,3,Medicare,Employer-Sponsored Plans,yes,no,no,no,yes,yes,current,4,Transferred from another health facility,Transferred out to another health facility,14000
+21,Other,Hispanic,5,ICD-10-CM/PCS,7126334272,1,3,Self-Pay,Secondary Health Insurance,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,13000
+48,Male,Black,7,ICD-9-CM,6565985690,1,1,Medicaid,COBRA Coverage,no,no,no,no,yes,no,former,3,Not a transfer,Transferred out to another health facility,33500
+34,Other,Hispanic,4,ICD-10-CM/PCS,8146071710,2,1,Medicaid,Government Programs,no,no,no,no,yes,yes,current,4,Transferred from another health facility,Not a transfer,12000
+50,Male,Black,5,ICD-10-PCS,5145943629,2,3,Medicare,None,no,yes,yes,no,yes,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,73000
+10,Other,Hispanic,8,ICD-10-CM,5511505692,2,1,Medicaid,None,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,41000
+41,Female,Black,1,ICD-10-PCS,3477685915,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,56000
+28,Other,Other,1,ICD-10-CM/PCS,1298045321,1,3,No charge,Employer-Sponsored Plans,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,9000
+50,Other,Asian or Pacific Islander,4,ICD-9-CM,5680985421,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,3,Transferred from another health facility,Not a transfer,26000
+57,Male,Black,3,ICD-9-CM,3580897425,2,2,Medicaid,None,no,no,no,no,yes,yes,current,4,Transferred from another health facility,Transferred out to another health facility,43000
+64,Female,Black,2,ICD-10-PCS,9234603647,2,3,Self-Pay,Government Programs,no,no,no,no,no,yes,never,4,Transferred from acute care hospital,Not a transfer,74000
+67,Other,White,3,ICD-9-CM,7041260363,2,2,Medicare,None,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,36000
+36,Female,Black,1,ICD-10-CM/PCS,5910356471,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,never,3,Not a transfer,Transferred out to acute are hospital,3500
+37,Other,White,1,ICD-10-PCS,8364661283,2,2,Medicaid,None,yes,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to acute are hospital,69000
+71,Other,Native American,6,ICD-9-CM,2259943331,1,3,Medicare,None,yes,no,no,no,no,no,former,3,Not a transfer,Transferred out to another health facility,34000
+22,Female,Other,5,ICD-10-CM,7551845069,1,3,Medicare,COBRA Coverage,no,yes,no,no,yes,no,current,4,Not a transfer,Not a transfer,46500
+29,Other,White,8,ICD-10-CM,4866604899,1,2,Medicaid,Employer-Sponsored Plans,yes,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,46000
+58,Female,Asian or Pacific Islander,2,ICD-10-CM/PCS,3919002275,2,3,Medicaid,None,no,no,no,no,yes,yes,former,4,Transferred from acute care hospital,Transferred out to acute are hospital,14000
+62,Other,Other,4,ICD-9-CM,6565522114,2,3,No charge,Secondary Health Insurance,no,no,yes,no,yes,yes,current,4,Transferred from another health facility,Not a transfer,49000
+71,Male,White,8,ICD-10-CM/PCS,9594711007,1,2,Medicare,None,yes,no,no,no,yes,yes,never,4,Not a transfer,Transferred out to acute are hospital,17000
+50,Female,Other,6,ICD-10-PCS,2168035962,1,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,no,former,4,Not a transfer,Not a transfer,49000
+28,Other,Other,1,ICD-10-CM,3842557891,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,yes,former,3,Transferred from another health facility,Transferred out to another health facility,42500
+36,Other,Other,4,ICD-10-PCS,3721770599,1,3,No charge,None,no,yes,no,no,yes,no,never,3,Not a transfer,Transferred out to another health facility,76000
+51,Male,Native American,1,ICD-9-CM,9659699678,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,3,Transferred from another health facility,Not a transfer,28500
+27,Female,Asian or Pacific Islander,2,ICD-10-CM/PCS,8425045189,2,2,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,5500
+70,Other,Hispanic,5,ICD-10-CM/PCS,3856393708,1,3,Medicare,Employer-Sponsored Plans,no,no,no,yes,no,yes,never,3,Transferred from acute care hospital,Transferred out to another health facility,4000
+31,Male,Hispanic,8,ICD-10-CM/PCS,2472018118,1,2,Medicaid,None,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,5000
+6,Other,White,8,ICD-10-PCS,5872967967,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,60000
+21,Female,Other,3,ICD-10-CM,9995460651,2,2,Medicaid,Secondary Health Insurance,no,yes,no,no,no,no,current,3,Not a transfer,Not a transfer,38000
+37,Other,White,4,ICD-10-PCS,4571344040,2,2,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Not a transfer,61000
+13,Other,Native American,6,ICD-10-PCS,9239454702,1,2,Medicaid,Employer-Sponsored Plans,no,yes,no,yes,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,67000
+47,Other,Native American,3,ICD-9-CM,1444246124,2,3,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,32000
+52,Other,Black,2,ICD-9-CM,5802712398,2,1,Medicaid,Employer-Sponsored Plans,no,no,yes,yes,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,38000
+43,Male,Native American,6,ICD-9-CM,9590066528,2,3,Self-Pay,Secondary Health Insurance,yes,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,39000
+46,Male,Black,5,ICD-10-CM,4058605342,1,3,Other,COBRA Coverage,no,yes,no,no,yes,yes,never,3,Not a transfer,Transferred out to acute are hospital,55500
+30,Female,Asian or Pacific Islander,5,ICD-10-CM,5350361525,2,3,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,40000
+54,Male,White,5,ICD-9-CM,7615535574,1,3,Medicare,Secondary Health Insurance,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Not a transfer,32000
+29,Male,Asian or Pacific Islander,5,ICD-9-CM,5112996602,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,former,3,Not a transfer,Transferred out to another health facility,26000
+28,Female,Native American,3,ICD-10-CM,3209594568,2,3,Medicare,COBRA Coverage,no,yes,no,no,no,yes,former,3,Transferred from acute care hospital,Not a transfer,42500
+17,Male,Asian or Pacific Islander,7,ICD-10-CM/PCS,1365314373,1,2,Medicaid,None,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,5000
+64,Male,Asian or Pacific Islander,6,ICD-10-CM,7902593452,2,3,Self-Pay,None,yes,no,no,no,no,no,never,4,Transferred from another health facility,Not a transfer,57000
+11,Female,Asian or Pacific Islander,4,ICD-10-CM,2669566971,1,3,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,38000
+61,Female,Native American,2,ICD-10-CM,2352564435,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from another health facility,Not a transfer,38000
+40,Female,Other,9,ICD-9-CM,7202377559,2,1,Medicaid,COBRA Coverage,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,30500
+49,Other,Asian or Pacific Islander,1,ICD-10-CM/PCS,9047130329,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,no,never,4,Not a transfer,Transferred out to another health facility,7000
+24,Other,Black,4,ICD-10-CM,2313160302,1,3,Other,COBRA Coverage,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,48500
+69,Female,Native American,1,ICD-9-CM,2729599312,1,3,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,27000
+12,Female,Asian or Pacific Islander,6,ICD-10-PCS,8183363996,2,3,Other,Employer-Sponsored Plans,no,no,yes,no,no,yes,never,4,Transferred from another health facility,Not a transfer,74000
+20,Female,Other,4,ICD-10-PCS,3716121218,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,59000
+18,Other,Native American,5,ICD-10-CM,3484606426,1,1,Medicaid,Government Programs,no,yes,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,44000
+19,Other,Hispanic,5,ICD-10-PCS,1110336187,1,2,Medicaid,COBRA Coverage,no,yes,yes,no,yes,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,75500
+70,Male,Other,9,ICD-10-CM/PCS,2222095957,1,3,Medicare,Government Programs,no,yes,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,0
+36,Male,Black,1,ICD-10-PCS,4650547541,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to acute are hospital,63000
+67,Female,Asian or Pacific Islander,2,ICD-10-PCS,5759015151,2,1,Medicare,Secondary Health Insurance,yes,no,no,yes,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,69000
+55,Other,Hispanic,6,ICD-10-CM/PCS,3325185435,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,2000
+29,Other,Hispanic,5,ICD-10-CM,1369505299,2,1,Medicaid,Government Programs,no,yes,yes,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,51000
+62,Other,Native American,7,ICD-10-CM,8817130394,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,no,never,4,Not a transfer,Transferred out to another health facility,46000
+67,Female,Hispanic,3,ICD-10-CM/PCS,9768514853,2,3,Medicare,None,no,no,no,no,no,no,never,3,Transferred from another health facility,Transferred out to another health facility,0
+66,Male,Black,3,ICD-10-CM/PCS,7434419114,2,3,Medicare,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,1000
+26,Female,Black,2,ICD-10-CM/PCS,6378638765,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,former,4,Transferred from another health facility,Transferred out to another health facility,2000
+62,Male,White,3,ICD-10-PCS,3635554729,2,1,Medicaid,Secondary Health Insurance,no,yes,no,no,no,no,former,3,Transferred from acute care hospital,Transferred out to acute are hospital,58000
+62,Male,Black,1,ICD-10-CM/PCS,7684964717,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,3000
+53,Female,Other,5,ICD-9-CM,1089911341,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,3,Not a transfer,Transferred out to acute are hospital,35000
+56,Male,Hispanic,5,ICD-10-PCS,2356235351,1,1,Medicaid,None,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,63000
+46,Male,Black,7,ICD-10-CM,4292209752,2,3,Private including HMO,Employer-Sponsored Plans,no,no,no,no,yes,no,former,4,Transferred from acute care hospital,Not a transfer,36000
+74,Other,Native American,4,ICD-10-CM,4015528565,2,1,Medicare,None,yes,yes,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,49000
+19,Male,White,3,ICD-10-CM,6718114232,1,1,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,42000
+58,Female,Hispanic,1,ICD-10-PCS,7065695242,1,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,49000
+64,Female,White,8,ICD-9-CM,2077517526,1,3,No charge,Government Programs,no,yes,no,no,yes,yes,never,4,Transferred from another health facility,Transferred out to another health facility,51000
+12,Male,Hispanic,3,ICD-10-CM/PCS,1517317398,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,0
+57,Other,Native American,2,ICD-10-CM/PCS,7805560859,2,2,Medicaid,None,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,9000
+64,Other,White,4,ICD-10-CM,2622807065,1,2,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,4,Transferred from another health facility,Not a transfer,47500
+9,Male,Asian or Pacific Islander,3,ICD-10-CM,1266445877,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to acute are hospital,41000
+72,Male,Other,1,ICD-10-PCS,2457305042,1,3,Medicare,None,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,61000
+10,Female,Other,3,ICD-9-CM,3172959907,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,33000
+51,Male,Hispanic,2,ICD-10-CM/PCS,5990421325,1,2,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,no,current,3,Not a transfer,Not a transfer,4000
+59,Other,Asian or Pacific Islander,8,ICD-10-PCS,6818514845,1,2,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to another health facility,63000
+44,Male,White,6,ICD-10-CM/PCS,1494549070,2,3,Medicaid,Secondary Health Insurance,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,0
+56,Female,Asian or Pacific Islander,9,ICD-10-CM,9088598519,2,3,Medicaid,Employer-Sponsored Plans,yes,yes,yes,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,48000
+20,Female,Asian or Pacific Islander,8,ICD-10-CM/PCS,2781662642,2,1,Medicaid,Government Programs,yes,no,no,no,yes,yes,former,4,Not a transfer,Not a transfer,17000
+17,Female,White,3,ICD-9-CM,6958298217,2,1,Medicaid,COBRA Coverage,no,yes,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,35500
+34,Female,Native American,5,ICD-9-CM,2898519103,2,3,Other,Employer-Sponsored Plans,no,no,no,no,no,no,former,3,Transferred from another health facility,Transferred out to acute are hospital,34000
+23,Female,Asian or Pacific Islander,7,ICD-10-CM,8079108851,2,2,Medicaid,Secondary Health Insurance,no,yes,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,41000
+21,Male,Asian or Pacific Islander,5,ICD-9-CM,5558877093,1,2,Medicaid,Employer-Sponsored Plans,no,yes,yes,no,no,no,current,3,Not a transfer,Transferred out to another health facility,33000
+67,Male,Native American,8,ICD-9-CM,5039433705,2,2,Medicare,None,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,36000
+23,Male,Asian or Pacific Islander,5,ICD-10-PCS,5099829457,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,4,Transferred from another health facility,Not a transfer,68000
+62,Male,Asian or Pacific Islander,1,ICD-10-CM/PCS,1650396840,1,2,Medicaid,COBRA Coverage,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,7500
+59,Female,Asian or Pacific Islander,5,ICD-10-CM,7345454217,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,39000
+66,Other,Other,4,ICD-10-CM,3584740230,1,3,Medicare,COBRA Coverage,no,yes,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,38500
+27,Male,Black,6,ICD-10-CM,7019232485,1,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,45500
+13,Other,Native American,3,ICD-10-CM,1544705024,2,3,Medicaid,Government Programs,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,45000
+16,Male,Asian or Pacific Islander,5,ICD-10-CM,5546503385,2,2,Medicaid,Government Programs,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,45000
+5,Male,Other,2,ICD-9-CM,9039805384,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Not a transfer,Not a transfer,31000
+62,Other,Native American,6,ICD-10-PCS,3478117154,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,62000
+5,Female,Hispanic,6,ICD-10-CM,2702149777,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,41500
+38,Male,Hispanic,5,ICD-10-PCS,1616196623,2,3,Medicare,Secondary Health Insurance,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,60000
+52,Male,Asian or Pacific Islander,6,ICD-10-PCS,1346240528,2,3,Other,None,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,67000
+5,Male,Other,7,ICD-9-CM,8538241497,2,3,No charge,None,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,43000
+20,Other,Other,5,ICD-10-CM,4558116995,1,2,Medicaid,Secondary Health Insurance,yes,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,45000
+65,Female,Native American,1,ICD-9-CM,5639366813,2,2,Medicare,Secondary Health Insurance,no,yes,no,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,29000
+68,Other,Native American,8,ICD-10-CM,7342974666,1,1,Medicare,Government Programs,yes,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,47000
+67,Other,Other,4,ICD-9-CM,8001196651,2,2,Medicare,None,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,38000
+73,Female,Native American,9,ICD-10-PCS,6484970676,1,1,Medicare,COBRA Coverage,yes,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,66500
+26,Other,Other,6,ICD-10-CM,1534061312,1,3,Other,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,48000
+71,Female,Black,1,ICD-10-CM/PCS,9465123926,1,3,Medicare,Government Programs,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to another health facility,7000
+30,Male,Other,3,ICD-10-PCS,6055835884,2,3,Private including HMO,None,no,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,60000
+20,Female,Hispanic,3,ICD-10-CM/PCS,8396217413,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,1000
+55,Male,Native American,4,ICD-10-PCS,7788819550,2,2,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,61000
+61,Other,Other,6,ICD-9-CM,9314787172,2,3,Medicare,COBRA Coverage,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,32500
+33,Other,Other,7,ICD-10-CM,8182262008,2,2,Medicaid,Government Programs,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,44000
+73,Male,Native American,4,ICD-10-PCS,7362040352,2,2,Medicare,Secondary Health Insurance,yes,no,no,no,no,yes,never,3,Not a transfer,Transferred out to another health facility,63000
+51,Other,Black,6,ICD-9-CM,8772495076,2,3,Medicare,COBRA Coverage,no,no,no,no,yes,no,never,4,Transferred from another health facility,Transferred out to acute are hospital,34500
+66,Female,Black,1,ICD-10-CM,5389740698,1,1,Medicare,Employer-Sponsored Plans,yes,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,48000
+73,Male,Native American,8,ICD-10-CM,5664902036,2,2,Medicare,Government Programs,no,yes,no,no,yes,yes,never,3,Not a transfer,Transferred out to acute are hospital,48000
+20,Other,White,7,ICD-10-PCS,2204028576,1,3,Medicare,COBRA Coverage,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,60500
+52,Male,Native American,9,ICD-10-CM,2889165582,1,2,Medicaid,COBRA Coverage,no,yes,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,45500
+43,Female,Native American,3,ICD-10-PCS,8060739763,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,59000
+37,Female,Black,2,ICD-10-CM,7869633282,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,never,4,Transferred from acute care hospital,Not a transfer,41000
+27,Other,Black,1,ICD-10-CM/PCS,6940864747,1,2,Medicaid,COBRA Coverage,no,yes,no,no,yes,yes,never,3,Not a transfer,Transferred out to acute are hospital,10500
+14,Female,Native American,3,ICD-9-CM,6224109476,1,2,Medicaid,Government Programs,no,yes,yes,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,37000
+73,Male,Native American,5,ICD-10-CM/PCS,7195822496,1,1,Medicare,COBRA Coverage,no,no,yes,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,500
+38,Female,Native American,2,ICD-10-PCS,8730010716,2,1,Medicaid,None,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,65000
+56,Male,Black,3,ICD-10-CM/PCS,8842319531,1,3,Medicaid,Government Programs,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,6000
+14,Male,Native American,4,ICD-10-PCS,8663963160,2,1,Medicaid,Government Programs,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,59000
+23,Female,Native American,7,ICD-10-CM,2778722358,1,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to another health facility,38500
+62,Other,Asian or Pacific Islander,3,ICD-10-CM,3455036168,1,1,Medicaid,Secondary Health Insurance,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,42000
+5,Female,White,9,ICD-10-PCS,6088842156,1,2,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,62000
+73,Male,Hispanic,8,ICD-10-CM/PCS,5550891935,1,2,Medicare,None,no,no,no,no,yes,no,current,4,Transferred from another health facility,Transferred out to another health facility,8000
+8,Male,White,4,ICD-10-CM,3595703510,2,3,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,39000
+20,Female,Asian or Pacific Islander,1,ICD-9-CM,4280033321,2,3,Self-Pay,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,38000
+28,Other,Hispanic,1,ICD-10-CM,3247991775,2,3,No charge,Secondary Health Insurance,no,yes,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to another health facility,46000
+6,Other,Native American,1,ICD-9-CM,5639018766,1,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,3,Not a transfer,Not a transfer,33000
+36,Male,Asian or Pacific Islander,1,ICD-10-CM/PCS,6163813211,1,1,Medicaid,Secondary Health Insurance,no,no,yes,no,no,yes,current,4,Transferred from another health facility,Not a transfer,7000
+28,Male,Native American,8,ICD-9-CM,2660894158,1,1,Medicaid,COBRA Coverage,no,no,yes,no,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,31500
+16,Other,Black,3,ICD-9-CM,9809623045,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,never,4,Not a transfer,Not a transfer,33000
+54,Female,Other,6,ICD-9-CM,7492734028,1,3,Self-Pay,None,no,yes,no,no,no,yes,never,3,Not a transfer,Transferred out to another health facility,45000
+39,Male,Asian or Pacific Islander,3,ICD-9-CM,3075733138,2,3,Private including HMO,Employer-Sponsored Plans,yes,no,no,no,no,yes,never,4,Transferred from acute care hospital,Not a transfer,30000
+37,Male,Black,5,ICD-10-CM,5919140691,2,3,Other,None,no,no,no,no,no,yes,current,3,Not a transfer,Not a transfer,51000
+37,Other,Asian or Pacific Islander,7,ICD-9-CM,9856400468,1,2,Medicaid,Government Programs,no,yes,no,no,no,yes,never,3,Not a transfer,Transferred out to acute are hospital,35000
+65,Female,Asian or Pacific Islander,2,ICD-10-CM,9895545900,1,3,Medicare,Secondary Health Insurance,no,no,yes,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,44000
+55,Other,Black,6,ICD-9-CM,3396049211,2,3,Other,Secondary Health Insurance,yes,no,no,no,no,no,former,4,Not a transfer,Transferred out to another health facility,40000
+47,Female,Hispanic,6,ICD-10-PCS,9417238348,2,2,Medicaid,COBRA Coverage,yes,no,no,no,yes,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,75500
+16,Female,White,3,ICD-10-CM/PCS,1209142776,2,1,Medicaid,Secondary Health Insurance,yes,yes,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to another health facility,9000
+71,Female,Native American,6,ICD-9-CM,9779196005,1,2,Medicare,None,yes,yes,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,43000
+69,Male,Asian or Pacific Islander,5,ICD-10-PCS,6090725288,1,2,Medicare,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,64000
+37,Other,Native American,2,ICD-9-CM,7619704727,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,former,3,Not a transfer,Not a transfer,28000
+44,Other,Other,9,ICD-9-CM,3772711396,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,30000
+78,Female,Black,8,ICD-9-CM,9357881322,1,1,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,never,4,Transferred from another health facility,Not a transfer,29000
+47,Male,Native American,3,ICD-10-PCS,1331517912,1,3,No charge,Secondary Health Insurance,no,yes,no,no,yes,no,current,3,Not a transfer,Not a transfer,71000
+48,Male,Black,8,ICD-10-CM/PCS,6024626699,2,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,7000
+33,Other,Native American,9,ICD-10-PCS,1545222096,2,1,Medicaid,None,no,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,64000
+17,Male,White,3,ICD-10-CM/PCS,7522172783,2,3,No charge,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,15000
+16,Male,White,3,ICD-9-CM,6350874024,1,3,Medicaid,Employer-Sponsored Plans,yes,yes,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,35000
+50,Female,White,2,ICD-10-CM,8234074606,2,3,Self-Pay,Secondary Health Insurance,no,yes,no,no,yes,no,current,4,Not a transfer,Transferred out to acute are hospital,54000
+6,Male,White,8,ICD-9-CM,5075840938,1,2,Medicaid,Employer-Sponsored Plans,no,no,yes,no,no,no,current,4,Not a transfer,Transferred out to another health facility,34000
+39,Female,White,1,ICD-10-CM/PCS,1612275729,1,2,Medicaid,None,yes,yes,no,no,yes,yes,never,3,Transferred from another health facility,Not a transfer,18000
+12,Other,White,8,ICD-10-PCS,6936243852,2,3,Medicare,Government Programs,no,yes,no,no,no,yes,never,4,Not a transfer,Transferred out to acute are hospital,66000
+30,Male,Black,7,ICD-9-CM,9607919547,1,3,Other,Employer-Sponsored Plans,no,yes,no,no,no,yes,former,4,Transferred from another health facility,Transferred out to acute are hospital,43000
+78,Other,Asian or Pacific Islander,7,ICD-10-PCS,2784314087,2,3,Medicare,Employer-Sponsored Plans,yes,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,68000
+38,Other,Native American,3,ICD-10-PCS,1422728673,2,3,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,61000
+11,Male,White,1,ICD-10-PCS,7869197703,1,3,Medicaid,Secondary Health Insurance,yes,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,64000
+72,Male,Black,4,ICD-9-CM,8424522191,2,3,Medicare,Employer-Sponsored Plans,no,yes,yes,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,35000
+62,Other,Black,9,ICD-10-PCS,2017580812,2,1,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,61000
+79,Male,Black,5,ICD-10-PCS,1416464408,2,3,Medicare,Secondary Health Insurance,no,yes,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,64000
+33,Female,Asian or Pacific Islander,1,ICD-9-CM,8720264046,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,29000
+40,Female,Native American,5,ICD-10-PCS,8205004353,1,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,63000
+25,Male,Asian or Pacific Islander,8,ICD-9-CM,7644008950,2,2,Medicaid,None,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,38000
+40,Other,Hispanic,8,ICD-10-CM/PCS,3040495473,2,3,Private including HMO,Secondary Health Insurance,no,yes,no,no,no,no,never,4,Not a transfer,Not a transfer,0
+14,Male,Black,5,ICD-10-CM/PCS,2205171313,2,2,Medicaid,Government Programs,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,2000
+77,Male,Hispanic,9,ICD-10-CM/PCS,9050088685,1,1,Medicare,COBRA Coverage,yes,no,no,no,no,no,former,4,Not a transfer,Not a transfer,5500
+28,Other,Other,1,ICD-10-PCS,8862464885,2,3,Other,None,no,no,no,no,no,no,former,4,Transferred from acute care hospital,Transferred out to another health facility,70000
+68,Other,White,4,ICD-10-CM,1964896171,1,2,Medicare,COBRA Coverage,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,42500
+53,Female,White,3,ICD-10-CM,2759531570,2,1,Medicaid,Secondary Health Insurance,no,no,yes,no,no,no,current,4,Transferred from another health facility,Not a transfer,42000
+40,Other,Asian or Pacific Islander,2,ICD-10-PCS,6071892118,2,1,Medicaid,None,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,65000
+28,Female,Native American,8,ICD-10-CM,4576040338,2,2,Medicaid,Government Programs,no,no,yes,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,42000
+27,Other,Hispanic,7,ICD-9-CM,5551021744,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,former,4,Transferred from acute care hospital,Transferred out to another health facility,29000
+66,Male,Native American,9,ICD-10-CM,3972334489,1,2,Medicare,None,no,yes,no,no,yes,no,never,3,Transferred from another health facility,Not a transfer,46000
+41,Female,Asian or Pacific Islander,2,ICD-10-PCS,7024720204,1,1,Medicaid,None,yes,yes,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to acute are hospital,71000
+16,Female,White,4,ICD-10-PCS,7526682454,1,3,Other,COBRA Coverage,no,yes,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,69500
+59,Female,Native American,6,ICD-9-CM,5875721231,1,3,No charge,Secondary Health Insurance,no,no,yes,no,yes,yes,never,3,Not a transfer,Transferred out to acute are hospital,46000
+17,Male,Native American,3,ICD-10-CM/PCS,1571272749,1,3,Self-Pay,Government Programs,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,14000
+27,Male,White,8,ICD-10-PCS,9072826964,2,3,No charge,Government Programs,no,no,no,yes,no,no,never,3,Transferred from acute care hospital,Transferred out to another health facility,70000
+34,Male,Hispanic,3,ICD-9-CM,9190682855,1,3,Private including HMO,Secondary Health Insurance,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,22000
+21,Male,White,2,ICD-10-CM,5258600856,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,40000
+66,Male,Native American,3,ICD-10-CM,1894707776,1,3,Medicare,Employer-Sponsored Plans,yes,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,45000
+17,Female,Hispanic,6,ICD-9-CM,6821567638,1,3,No charge,COBRA Coverage,no,yes,no,no,no,no,never,4,Transferred from another health facility,Not a transfer,41500
+63,Male,Hispanic,2,ICD-9-CM,3550268394,1,3,Other,Secondary Health Insurance,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,41000
+23,Female,White,8,ICD-10-PCS,7767122262,2,3,Private including HMO,Secondary Health Insurance,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,51000
+53,Male,Native American,1,ICD-10-CM,3026107192,1,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,no,never,4,Not a transfer,Transferred out to acute are hospital,43000
+16,Other,Asian or Pacific Islander,7,ICD-9-CM,9698163879,1,3,Self-Pay,Employer-Sponsored Plans,no,yes,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,38000
+65,Female,Native American,2,ICD-10-CM,3436925548,2,3,Medicare,None,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,45000
+23,Other,Black,6,ICD-9-CM,4419840286,2,2,Medicaid,Government Programs,no,no,no,no,no,no,former,4,Transferred from another health facility,Transferred out to acute are hospital,32000
+13,Female,Other,2,ICD-10-CM,4156909145,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,41500
+75,Other,Asian or Pacific Islander,2,ICD-10-CM/PCS,3096707148,2,2,Medicare,None,no,no,yes,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,3000
+32,Male,Hispanic,8,ICD-10-PCS,1572012886,1,3,Self-Pay,Secondary Health Insurance,yes,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,71000
+56,Male,Asian or Pacific Islander,2,ICD-10-CM,7094985844,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,38000
+20,Male,Hispanic,7,ICD-10-CM/PCS,6532710424,1,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,7000
+73,Female,Hispanic,3,ICD-10-CM,5322731505,1,3,Medicare,None,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,39000
+16,Other,Asian or Pacific Islander,8,ICD-10-CM,3131331205,2,1,Medicaid,Government Programs,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,45000
+29,Male,Hispanic,7,ICD-10-CM/PCS,4155118629,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,yes,former,4,Transferred from acute care hospital,Transferred out to acute are hospital,11000
+56,Other,Hispanic,8,ICD-10-CM,5397815724,2,2,Medicaid,None,no,no,yes,no,no,no,former,4,Transferred from acute care hospital,Not a transfer,47000
+57,Other,Black,7,ICD-10-CM,9338568359,1,3,Private including HMO,None,yes,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,43000
+27,Male,Native American,6,ICD-10-PCS,3025719138,2,2,Medicaid,Government Programs,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,65000
+20,Male,Native American,7,ICD-10-CM/PCS,1392654487,2,2,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,1000
+61,Other,Other,5,ICD-10-CM/PCS,1843077603,2,2,Medicaid,Secondary Health Insurance,no,yes,no,no,no,no,former,4,Transferred from acute care hospital,Transferred out to acute are hospital,2000
+43,Male,Other,7,ICD-9-CM,1096913836,2,3,Self-Pay,None,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,45000
+57,Male,Black,1,ICD-10-CM,4700822523,2,3,Self-Pay,Secondary Health Insurance,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to acute are hospital,49000
+46,Male,Other,1,ICD-10-PCS,7773666282,2,1,Medicaid,Employer-Sponsored Plans,no,no,yes,no,no,yes,current,4,Not a transfer,Not a transfer,68000
+62,Female,Asian or Pacific Islander,9,ICD-10-CM,9120316248,1,3,No charge,None,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,56000
+43,Other,White,5,ICD-10-CM,4479615378,1,2,Medicaid,None,no,yes,no,no,yes,yes,current,3,Not a transfer,Not a transfer,52000
+18,Other,White,5,ICD-9-CM,4220623887,1,2,Medicaid,Secondary Health Insurance,no,yes,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,35000
+9,Female,White,3,ICD-10-CM,9216450546,2,1,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,4,Not a transfer,Not a transfer,47500
+39,Other,Black,5,ICD-10-PCS,3457249408,1,3,No charge,Secondary Health Insurance,no,yes,yes,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,73000
+79,Male,Black,3,ICD-10-PCS,6071433618,2,2,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,3,Not a transfer,Not a transfer,54000
+22,Other,Hispanic,9,ICD-9-CM,2154476961,1,1,Medicaid,COBRA Coverage,no,yes,no,no,no,no,never,3,Transferred from another health facility,Transferred out to acute are hospital,30500
+13,Male,White,9,ICD-10-CM,6611011617,1,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,40000
+78,Female,Asian or Pacific Islander,6,ICD-10-PCS,3384281468,2,2,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,56000
+62,Male,Other,1,ICD-10-CM,3525404805,1,2,Medicaid,None,no,no,no,yes,no,yes,current,3,Not a transfer,Transferred out to another health facility,48000
+21,Other,Asian or Pacific Islander,7,ICD-10-CM,2831802489,1,3,No charge,Government Programs,no,no,no,no,no,no,former,4,Not a transfer,Not a transfer,50000
+11,Other,Other,7,ICD-10-CM,7938179423,1,1,Medicaid,Government Programs,yes,no,no,no,yes,no,current,4,Not a transfer,Transferred out to acute are hospital,52000
+50,Other,White,4,ICD-9-CM,1350361647,2,2,Medicaid,None,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,40000
+17,Female,White,8,ICD-10-CM,9966982182,1,1,Medicaid,Government Programs,no,no,no,no,no,yes,never,3,Transferred from another health facility,Transferred out to another health facility,43000
+44,Female,White,6,ICD-10-PCS,7520093213,2,3,No charge,Secondary Health Insurance,no,no,no,no,no,no,never,3,Transferred from another health facility,Not a transfer,64000
+46,Other,Black,4,ICD-10-CM,1919100147,1,2,Medicaid,Secondary Health Insurance,yes,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,46000
+13,Male,Other,4,ICD-10-PCS,6511664571,1,3,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,3,Not a transfer,Transferred out to another health facility,58500
+54,Female,Black,2,ICD-10-CM,4486938440,1,1,Medicaid,COBRA Coverage,no,yes,yes,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,47500
+31,Other,Black,2,ICD-10-PCS,9649472014,1,3,Other,None,no,no,no,no,no,yes,current,4,Not a transfer,Not a transfer,74000
+70,Other,Native American,4,ICD-10-PCS,4430200456,2,3,Medicare,None,no,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,61000
+9,Female,Asian or Pacific Islander,5,ICD-10-CM,9301110659,1,1,Medicaid,None,no,no,yes,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,47000
+33,Female,Asian or Pacific Islander,8,ICD-10-CM,1086491407,2,3,Medicare,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,38000
+41,Female,Hispanic,6,ICD-10-PCS,4806076723,2,1,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,66000
+42,Male,Black,4,ICD-10-CM/PCS,2969322230,1,2,Medicaid,None,no,no,yes,no,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,8000
+12,Male,Other,7,ICD-9-CM,3424898323,1,1,Medicaid,None,no,no,no,no,no,no,former,4,Not a transfer,Not a transfer,34000
+69,Other,Native American,8,ICD-10-CM/PCS,5001794572,2,1,Medicare,Secondary Health Insurance,no,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,4000
+21,Female,Native American,2,ICD-10-CM/PCS,4093052745,2,2,Medicaid,Secondary Health Insurance,no,no,no,yes,no,no,current,4,Not a transfer,Transferred out to acute are hospital,3000
+75,Male,Asian or Pacific Islander,7,ICD-10-CM,2233605726,1,1,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,37000
+49,Female,Black,2,ICD-9-CM,4778507783,1,2,Medicaid,Government Programs,yes,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,39000
+8,Other,Hispanic,2,ICD-10-CM/PCS,9801336815,1,2,Medicaid,None,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,6000
+40,Male,Black,8,ICD-10-CM,6395301492,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,42000
+74,Male,White,2,ICD-10-CM/PCS,1593243644,1,3,Medicare,Employer-Sponsored Plans,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,5000
+35,Male,Black,9,ICD-10-CM/PCS,8984824204,2,3,Private including HMO,None,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,0
+23,Other,White,1,ICD-10-CM,3898644235,1,2,Medicaid,None,no,no,no,no,no,no,former,3,Transferred from another health facility,Transferred out to another health facility,41000
+65,Female,White,9,ICD-10-CM,2026782281,1,3,Medicare,None,no,yes,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to acute are hospital,44000
+58,Male,Hispanic,1,ICD-10-CM,4264198963,2,3,Private including HMO,None,no,yes,no,no,no,yes,former,3,Transferred from acute care hospital,Transferred out to another health facility,37000
+43,Other,Other,2,ICD-9-CM,7058835767,1,1,Medicaid,Government Programs,no,no,no,yes,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,35000
+78,Female,Asian or Pacific Islander,6,ICD-10-CM/PCS,5013835414,1,2,Medicare,Employer-Sponsored Plans,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,2000
+23,Other,Black,6,ICD-10-CM,2303030989,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,41500
+43,Female,White,1,ICD-10-PCS,8653163186,1,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,yes,yes,current,3,Not a transfer,Transferred out to acute are hospital,69000
+71,Other,Black,7,ICD-10-CM/PCS,4289337846,2,3,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,no,current,4,Not a transfer,Not a transfer,2000
+49,Female,Other,8,ICD-10-PCS,3884967553,1,2,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,yes,current,3,Not a transfer,Transferred out to acute are hospital,67000
+17,Male,Asian or Pacific Islander,2,ICD-9-CM,4132361740,1,3,Private including HMO,None,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,26000
+62,Female,Other,8,ICD-10-CM,7764833638,1,2,Medicaid,None,no,no,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,46000
+24,Other,Asian or Pacific Islander,9,ICD-10-PCS,1997397458,2,2,Medicaid,None,no,no,no,yes,no,yes,current,4,Not a transfer,Not a transfer,71000
+76,Other,Native American,6,ICD-9-CM,7035826490,2,2,Medicare,Secondary Health Insurance,yes,yes,yes,no,no,no,current,4,Not a transfer,Transferred out to another health facility,37000
+65,Female,Asian or Pacific Islander,5,ICD-10-CM,6148083566,2,2,Medicare,Government Programs,yes,yes,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,44000
+43,Male,Hispanic,9,ICD-10-PCS,8659589775,2,3,Medicare,Government Programs,no,no,no,no,yes,yes,never,3,Transferred from another health facility,Transferred out to acute are hospital,66000
+5,Male,Other,9,ICD-10-PCS,2590135107,1,3,Private including HMO,COBRA Coverage,no,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,57500
+7,Female,White,1,ICD-9-CM,6080144816,2,3,Other,Government Programs,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,35000
+66,Female,Native American,3,ICD-10-CM,6751994834,2,3,Medicare,Government Programs,no,no,no,no,no,yes,never,3,Transferred from another health facility,Not a transfer,41000
+67,Other,Hispanic,9,ICD-10-CM,1268140504,2,1,Medicare,None,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,46000
+29,Male,Black,2,ICD-10-PCS,5763177191,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,no,never,4,Transferred from another health facility,Transferred out to another health facility,66000
+60,Female,Other,4,ICD-10-PCS,6656225499,1,2,Medicaid,Government Programs,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,59000
+37,Male,White,4,ICD-10-PCS,2299082942,2,2,Medicaid,Government Programs,no,yes,no,no,no,no,never,4,Not a transfer,Transferred out to acute are hospital,64000
+42,Female,Asian or Pacific Islander,2,ICD-10-CM,4688080332,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,never,3,Transferred from another health facility,Transferred out to another health facility,45000
+10,Female,White,3,ICD-9-CM,8579118113,1,3,Other,COBRA Coverage,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,38500
+62,Male,Black,3,ICD-9-CM,8259881367,2,2,Medicaid,Secondary Health Insurance,yes,yes,yes,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,43000
+48,Female,Native American,1,ICD-10-CM,9353814742,2,3,Other,None,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,47000
+49,Female,Native American,6,ICD-10-CM/PCS,8226456348,2,3,Medicare,Employer-Sponsored Plans,yes,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,7000
+36,Other,Other,8,ICD-9-CM,6719250840,2,1,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,4,Not a transfer,Not a transfer,37500
+49,Female,Native American,3,ICD-10-PCS,8068335255,1,1,Medicaid,Secondary Health Insurance,no,yes,yes,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,65000
+65,Female,Other,5,ICD-10-CM/PCS,6635272161,1,3,Medicare,Government Programs,yes,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,6000
+51,Female,Other,1,ICD-10-CM/PCS,1589699149,1,2,Medicaid,Government Programs,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,0
+25,Other,Other,7,ICD-9-CM,8139583159,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,never,4,Not a transfer,Transferred out to acute are hospital,35500
+79,Male,Asian or Pacific Islander,1,ICD-10-CM/PCS,8982224442,2,1,Medicare,Government Programs,no,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,0
+40,Other,Hispanic,9,ICD-10-CM/PCS,4028127616,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to acute are hospital,9000
+23,Other,Other,8,ICD-9-CM,4186770110,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,26000
+24,Male,Other,7,ICD-9-CM,6378650819,1,1,Medicaid,Government Programs,no,no,no,no,no,no,current,3,Not a transfer,Not a transfer,29000
+61,Other,Hispanic,7,ICD-10-CM/PCS,1230359655,2,1,Medicaid,Government Programs,yes,yes,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,10000
+22,Male,White,5,ICD-10-PCS,3042152666,1,1,Medicaid,None,no,yes,yes,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,70000
+51,Other,Other,5,ICD-10-CM,7652516212,2,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,44000
+53,Male,Asian or Pacific Islander,5,ICD-10-CM/PCS,1812589745,2,2,Medicaid,COBRA Coverage,no,no,no,no,yes,no,current,3,Transferred from another health facility,Not a transfer,4500
+18,Female,Native American,1,ICD-10-CM/PCS,3195216360,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,3,Not a transfer,Not a transfer,6000
+19,Other,Native American,8,ICD-10-PCS,2979543266,1,1,Medicaid,COBRA Coverage,no,no,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to another health facility,63500
+35,Other,Black,1,ICD-10-CM/PCS,8176946110,2,2,Medicaid,None,no,no,no,no,no,no,never,3,Not a transfer,Not a transfer,2000
+5,Other,Black,4,ICD-10-CM/PCS,2558999454,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,0
+58,Other,Native American,9,ICD-10-CM,7046360625,1,3,Private including HMO,None,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,34000
+7,Female,Native American,9,ICD-10-CM,9101941965,2,1,Medicaid,None,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,44000
+20,Other,Asian or Pacific Islander,5,ICD-10-CM,5497675598,2,1,Medicaid,Government Programs,no,yes,no,no,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,44000
+61,Female,Hispanic,4,ICD-9-CM,8006706467,2,1,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,34500
+79,Female,Black,3,ICD-9-CM,9341076526,2,1,Medicare,COBRA Coverage,no,no,no,no,no,yes,never,3,Not a transfer,Not a transfer,30500
+16,Female,Hispanic,3,ICD-10-CM,2281070440,2,3,Medicare,Government Programs,yes,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,49000
+78,Female,Asian or Pacific Islander,5,ICD-10-CM,8625737175,1,2,Medicare,COBRA Coverage,no,yes,yes,no,no,yes,current,3,Not a transfer,Not a transfer,45500
+20,Male,Native American,1,ICD-9-CM,1598091679,2,2,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,32000
+76,Male,Other,5,ICD-10-PCS,5190938112,2,1,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,3,Not a transfer,Not a transfer,54000
+28,Other,Hispanic,6,ICD-10-CM/PCS,6880395197,2,1,Medicaid,None,no,no,yes,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,5000
+32,Male,Native American,7,ICD-10-CM/PCS,6772829560,1,1,Medicaid,None,no,no,no,no,yes,no,current,4,Not a transfer,Not a transfer,10000
+12,Male,Native American,9,ICD-10-CM,3235718753,2,3,No charge,COBRA Coverage,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to another health facility,51500
+40,Other,White,3,ICD-10-PCS,7187608565,2,3,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,59000
+12,Other,Hispanic,2,ICD-9-CM,1594301477,2,2,Medicaid,None,no,yes,yes,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,43000
+62,Other,Other,3,ICD-10-CM,9515801479,1,1,Medicaid,Government Programs,no,no,no,no,yes,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,47000
+64,Male,Hispanic,9,ICD-10-PCS,5610063568,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,62000
+54,Male,Native American,7,ICD-10-PCS,3848191437,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,58000
+32,Other,Other,9,ICD-10-PCS,3557079095,2,1,Medicaid,None,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,68000
+45,Female,Asian or Pacific Islander,2,ICD-9-CM,7078004316,1,3,Other,None,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,39000
+68,Other,White,5,ICD-9-CM,4371823860,1,2,Medicare,None,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,37000
+31,Female,Native American,4,ICD-10-CM/PCS,6135546658,1,2,Medicaid,Government Programs,no,yes,no,yes,yes,no,current,4,Transferred from acute care hospital,Not a transfer,13000
+67,Female,Black,2,ICD-10-CM/PCS,4522961167,1,3,Medicare,Employer-Sponsored Plans,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Not a transfer,2000
+21,Other,Black,9,ICD-10-PCS,8081314937,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,61500
+77,Other,White,9,ICD-10-PCS,7854983045,2,2,Medicare,Government Programs,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,61000
+37,Other,Asian or Pacific Islander,6,ICD-9-CM,5276646886,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,30000
+33,Male,Native American,6,ICD-10-CM/PCS,2869437252,1,3,Medicare,None,no,no,no,no,no,no,former,3,Transferred from acute care hospital,Transferred out to acute are hospital,0
+17,Female,Hispanic,8,ICD-10-PCS,4954339475,2,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,67000
+50,Male,White,6,ICD-10-CM/PCS,9825009768,2,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,7000
+39,Male,Asian or Pacific Islander,1,ICD-10-CM/PCS,1877213159,1,1,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,no,current,3,Transferred from acute care hospital,Not a transfer,4000
+10,Other,Hispanic,4,ICD-10-PCS,2798281924,1,2,Medicaid,Government Programs,no,no,no,no,yes,yes,never,3,Not a transfer,Not a transfer,68000
+73,Male,Black,7,ICD-9-CM,6238292152,1,3,Medicare,Government Programs,no,yes,no,yes,yes,yes,never,4,Transferred from another health facility,Not a transfer,44000
+51,Other,Black,2,ICD-10-PCS,5295942408,1,1,Medicaid,COBRA Coverage,no,no,no,no,no,yes,former,3,Not a transfer,Transferred out to another health facility,62500
+29,Female,Hispanic,9,ICD-10-PCS,8919401791,2,3,Medicare,COBRA Coverage,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,65500
+70,Other,White,8,ICD-10-CM/PCS,8483088149,1,2,Medicare,Government Programs,no,no,no,no,yes,no,current,4,Not a transfer,Transferred out to acute are hospital,6000
+14,Male,Black,8,ICD-10-PCS,6015725494,1,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,49000
+60,Male,Native American,7,ICD-9-CM,1516957605,2,3,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Not a transfer,Not a transfer,29000
+34,Other,Other,4,ICD-10-PCS,9880294765,2,3,No charge,Employer-Sponsored Plans,no,no,no,no,yes,yes,never,3,Not a transfer,Transferred out to acute are hospital,75000
+9,Other,Hispanic,2,ICD-9-CM,4109681681,2,2,Medicaid,None,no,no,no,no,yes,no,current,4,Transferred from another health facility,Transferred out to another health facility,39000
+37,Male,Hispanic,3,ICD-9-CM,1511705303,2,1,Medicaid,None,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Not a transfer,43000
+69,Female,Black,6,ICD-10-CM/PCS,2498221649,2,3,Medicare,Employer-Sponsored Plans,yes,no,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,5000
+22,Female,White,5,ICD-10-CM,4086870811,1,1,Medicaid,Government Programs,no,no,no,no,no,no,former,4,Transferred from acute care hospital,Not a transfer,42000
+53,Other,Native American,8,ICD-10-CM,5770006120,1,2,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,42000
+15,Female,White,6,ICD-10-CM/PCS,9742793443,1,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,2500
+30,Male,Asian or Pacific Islander,6,ICD-10-PCS,6294527951,2,3,Other,COBRA Coverage,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,71500
+67,Other,Asian or Pacific Islander,1,ICD-10-CM/PCS,5526167638,1,3,Medicare,None,no,no,no,no,yes,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,9000
+63,Male,Other,4,ICD-9-CM,6110475625,2,3,No charge,Employer-Sponsored Plans,no,yes,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,41000
+31,Male,Black,5,ICD-10-CM,2682814988,1,3,Private including HMO,Government Programs,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,33000
+53,Female,Black,3,ICD-10-CM/PCS,6760601036,1,3,Medicare,Employer-Sponsored Plans,yes,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,6000
+37,Other,Black,9,ICD-10-PCS,2907753188,2,3,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,63000
+5,Other,Other,1,ICD-10-CM/PCS,3185683369,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,3000
+25,Female,Asian or Pacific Islander,6,ICD-10-CM,4699881038,1,2,Medicaid,Secondary Health Insurance,no,yes,no,yes,no,no,current,4,Transferred from acute care hospital,Not a transfer,44000
+59,Male,White,6,ICD-10-CM/PCS,9014562198,1,2,Medicaid,COBRA Coverage,yes,yes,no,no,yes,no,current,3,Not a transfer,Transferred out to acute are hospital,11500
+10,Male,Other,5,ICD-10-CM/PCS,5337533426,1,1,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,6500
+73,Male,Other,5,ICD-10-CM,8636650745,1,1,Medicare,None,no,no,yes,no,yes,yes,never,3,Not a transfer,Not a transfer,51000
+9,Male,White,5,ICD-9-CM,7273803065,1,2,Medicaid,Employer-Sponsored Plans,yes,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to acute are hospital,36000
+7,Other,Black,6,ICD-9-CM,9533653097,2,1,Medicaid,Employer-Sponsored Plans,yes,no,no,yes,yes,no,current,4,Not a transfer,Not a transfer,44000
+57,Other,Native American,8,ICD-10-CM,6362717141,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,36000
+27,Female,White,2,ICD-10-CM/PCS,7607356096,2,3,Private including HMO,COBRA Coverage,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,0
+57,Female,Asian or Pacific Islander,6,ICD-10-CM,4683065907,2,3,Private including HMO,Secondary Health Insurance,no,no,yes,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,32000
+41,Other,Hispanic,1,ICD-9-CM,5713154922,1,1,Medicaid,COBRA Coverage,yes,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,33500
+78,Other,Hispanic,4,ICD-10-PCS,4033844628,1,1,Medicare,Secondary Health Insurance,no,no,no,no,no,no,never,4,Transferred from acute care hospital,Not a transfer,57000
+78,Male,Other,3,ICD-10-CM/PCS,6779220301,2,2,Medicare,COBRA Coverage,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,3500
+21,Male,Hispanic,9,ICD-9-CM,1029988602,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,34000
+77,Female,Native American,3,ICD-10-CM/PCS,6303229874,2,3,Medicare,COBRA Coverage,no,no,no,no,no,yes,former,3,Not a transfer,Not a transfer,1500
+5,Other,Black,6,ICD-10-CM,6743791231,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,no,current,4,Transferred from another health facility,Not a transfer,44000
+55,Female,Asian or Pacific Islander,1,ICD-10-PCS,9592502693,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,63000
+49,Other,Native American,6,ICD-10-CM,6330764016,1,3,Medicare,None,no,no,yes,no,yes,no,current,4,Not a transfer,Transferred out to another health facility,50000
+8,Male,Asian or Pacific Islander,4,ICD-10-PCS,2003164183,2,3,No charge,Secondary Health Insurance,no,yes,no,no,no,yes,former,3,Transferred from acute care hospital,Transferred out to acute are hospital,70000
+66,Female,Asian or Pacific Islander,8,ICD-10-CM/PCS,7681034558,2,3,Medicare,None,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,3000
+69,Female,Black,9,ICD-10-CM/PCS,2251386294,2,3,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,3000
+36,Other,Other,4,ICD-10-CM,6913598237,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Not a transfer,42000
+38,Male,Hispanic,6,ICD-10-PCS,4761982997,1,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,65500
+76,Female,Black,1,ICD-10-PCS,7412201372,1,1,Medicare,None,no,no,no,no,no,yes,current,3,Not a transfer,Not a transfer,63000
+43,Male,Native American,4,ICD-10-CM/PCS,5753672801,1,1,Medicaid,Government Programs,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,6000
+30,Female,Other,7,ICD-10-CM,5094834206,1,3,Self-Pay,COBRA Coverage,no,yes,no,no,yes,no,never,4,Not a transfer,Transferred out to acute are hospital,56500
+38,Male,Native American,1,ICD-10-PCS,5553640047,2,2,Medicaid,None,no,yes,no,no,no,no,never,4,Not a transfer,Not a transfer,66000
+58,Other,Other,8,ICD-10-CM/PCS,6573365494,1,3,Medicare,Secondary Health Insurance,yes,yes,yes,no,yes,yes,current,4,Transferred from another health facility,Not a transfer,17000
+7,Female,Native American,6,ICD-9-CM,6575151888,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,33000
+54,Female,Black,5,ICD-10-CM,6671080333,1,1,Medicaid,Employer-Sponsored Plans,yes,no,no,no,no,no,never,3,Not a transfer,Not a transfer,43000
+16,Male,Other,9,ICD-9-CM,1302948267,2,3,Self-Pay,Government Programs,no,no,no,no,no,no,never,3,Not a transfer,Transferred out to acute are hospital,37000
+69,Male,Other,2,ICD-10-CM,9200937250,2,1,Medicare,Secondary Health Insurance,yes,yes,no,yes,yes,yes,current,3,Not a transfer,Not a transfer,53000
+58,Female,Asian or Pacific Islander,5,ICD-10-CM/PCS,6111564156,2,1,Medicaid,None,no,no,yes,no,no,no,current,4,Not a transfer,Not a transfer,8000
+9,Other,Asian or Pacific Islander,6,ICD-10-PCS,4527242547,1,3,No charge,None,yes,no,yes,no,yes,no,current,3,Transferred from another health facility,Not a transfer,82000
+61,Male,White,7,ICD-10-PCS,3339171804,2,1,Medicaid,Secondary Health Insurance,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,62000
+21,Male,Native American,5,ICD-10-PCS,5629358500,1,2,Medicaid,None,no,no,no,no,no,yes,never,4,Transferred from another health facility,Not a transfer,68000
+51,Male,Asian or Pacific Islander,9,ICD-10-CM,5103618738,1,3,Self-Pay,None,no,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,51000
+27,Female,White,1,ICD-10-CM/PCS,2060690138,1,2,Medicaid,Employer-Sponsored Plans,no,yes,yes,no,yes,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,13000
+18,Female,Asian or Pacific Islander,7,ICD-9-CM,4692148660,2,1,Medicaid,Government Programs,no,no,yes,no,no,no,current,4,Not a transfer,Not a transfer,35000
+70,Female,Native American,7,ICD-10-CM/PCS,5351784615,2,1,Medicare,Employer-Sponsored Plans,no,no,no,no,yes,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,6000
+79,Female,Other,4,ICD-9-CM,7493047631,1,3,Medicare,Government Programs,no,no,yes,no,yes,no,current,4,Not a transfer,Not a transfer,38000
+55,Other,Hispanic,9,ICD-10-CM,4520262008,1,1,Medicaid,None,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,44000
+42,Other,Native American,5,ICD-10-CM,2220562246,2,3,Self-Pay,Government Programs,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,51000
+68,Female,Black,4,ICD-9-CM,6914401581,2,3,Medicare,None,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,29000
+42,Other,Asian or Pacific Islander,7,ICD-9-CM,2689299395,2,3,Self-Pay,None,no,no,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,44000
+54,Male,Asian or Pacific Islander,4,ICD-9-CM,7633814605,1,3,No charge,Employer-Sponsored Plans,no,no,yes,no,no,no,never,4,Not a transfer,Not a transfer,42000
+34,Male,Other,3,ICD-10-CM/PCS,6014660105,1,3,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,2000
+55,Male,Black,9,ICD-9-CM,6627732092,1,2,Medicaid,COBRA Coverage,no,yes,no,yes,no,yes,current,3,Transferred from acute care hospital,Not a transfer,37500
+67,Female,Other,8,ICD-10-CM,3161850852,2,3,Medicare,Secondary Health Insurance,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to another health facility,34000
+56,Male,Black,1,ICD-10-CM,8470963487,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,45500
+42,Other,Hispanic,7,ICD-10-PCS,3772548947,2,1,Medicaid,COBRA Coverage,no,yes,no,no,yes,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,69500
+34,Female,Asian or Pacific Islander,9,ICD-9-CM,1669041077,1,3,Other,Government Programs,no,no,no,no,no,yes,never,3,Transferred from another health facility,Transferred out to another health facility,39000
+55,Other,Asian or Pacific Islander,8,ICD-10-CM/PCS,5670547141,1,1,Medicaid,None,yes,yes,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,16000
+9,Male,Hispanic,8,ICD-10-CM/PCS,7071007276,2,3,Private including HMO,None,yes,no,no,no,yes,yes,current,3,Not a transfer,Transferred out to acute are hospital,6000
+33,Male,White,6,ICD-10-CM/PCS,1170988822,1,2,Medicaid,None,no,yes,no,no,no,no,never,3,Transferred from another health facility,Transferred out to acute are hospital,4000
+8,Male,Other,4,ICD-10-PCS,5104483206,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,yes,no,never,3,Not a transfer,Transferred out to another health facility,61000
+14,Female,Hispanic,8,ICD-10-CM,1185113550,1,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,43000
+60,Other,Other,3,ICD-10-CM/PCS,1606445372,2,1,Medicaid,Government Programs,no,yes,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,9000
+21,Female,Native American,9,ICD-10-CM,8574242870,1,3,Medicare,None,no,no,yes,no,yes,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,50000
+78,Female,Asian or Pacific Islander,2,ICD-10-PCS,5761755232,1,1,Medicare,COBRA Coverage,no,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to another health facility,68500
+21,Male,Other,2,ICD-9-CM,6933997686,2,2,Medicaid,Secondary Health Insurance,no,yes,no,yes,yes,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,43000
+73,Female,Black,7,ICD-9-CM,2471417497,2,1,Medicare,COBRA Coverage,no,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,28500
+38,Female,Other,4,ICD-9-CM,1627155489,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,former,3,Transferred from another health facility,Transferred out to acute are hospital,32000
+10,Male,Native American,8,ICD-10-CM/PCS,5028954792,2,2,Medicaid,Government Programs,no,no,no,no,yes,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,9000
+57,Female,Asian or Pacific Islander,9,ICD-9-CM,4941265046,2,2,Medicaid,Government Programs,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,34000
+70,Male,Hispanic,7,ICD-10-CM/PCS,7981183519,1,3,Medicare,COBRA Coverage,no,yes,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,2500
+47,Male,Native American,5,ICD-10-PCS,9886445958,2,3,Medicare,Secondary Health Insurance,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to another health facility,63000
+79,Male,Asian or Pacific Islander,8,ICD-10-PCS,2437907968,2,2,Medicare,Government Programs,no,yes,yes,no,no,no,current,3,Not a transfer,Not a transfer,62000
+27,Male,Other,4,ICD-10-CM/PCS,2347344653,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to acute are hospital,2500
+59,Female,White,2,ICD-10-CM,6823794278,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,43000
+79,Male,White,6,ICD-9-CM,5932799046,2,3,Medicare,COBRA Coverage,no,no,no,no,no,yes,current,4,Transferred from another health facility,Not a transfer,33500
+20,Male,Black,9,ICD-9-CM,7856773857,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,30000
+12,Female,Asian or Pacific Islander,1,ICD-9-CM,8792719587,2,1,Medicaid,None,no,no,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,38000
+8,Female,White,7,ICD-10-CM/PCS,2641207933,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,1000
+8,Other,Hispanic,9,ICD-10-PCS,1844769353,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,62000
+60,Female,Asian or Pacific Islander,9,ICD-9-CM,8834010266,2,3,Medicaid,None,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,43000
+29,Female,Hispanic,3,ICD-10-PCS,6068742785,1,2,Medicaid,COBRA Coverage,no,no,no,no,yes,no,current,4,Not a transfer,Transferred out to acute are hospital,66500
+71,Other,Hispanic,5,ICD-9-CM,9090361030,2,2,Medicare,None,no,no,no,no,yes,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,37000
+71,Female,White,8,ICD-9-CM,2472871694,1,1,Medicare,None,no,no,yes,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,32000
+31,Female,Asian or Pacific Islander,8,ICD-10-CM/PCS,3937199830,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,3,Not a transfer,Transferred out to another health facility,0
+36,Female,Other,4,ICD-10-CM,6652612064,1,1,Medicaid,COBRA Coverage,no,no,yes,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,41500
+54,Female,Native American,1,ICD-10-CM/PCS,9829339721,2,2,Medicaid,Employer-Sponsored Plans,yes,no,no,yes,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,10000
+65,Other,White,1,ICD-9-CM,3619125860,2,3,Medicare,COBRA Coverage,no,no,yes,no,no,yes,never,3,Not a transfer,Transferred out to another health facility,33500
+55,Female,White,4,ICD-9-CM,2661324453,1,3,Medicaid,Government Programs,no,no,no,no,yes,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,38000
+23,Female,Other,6,ICD-10-CM,1346091948,2,1,Medicaid,Government Programs,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,39000
+25,Other,Asian or Pacific Islander,8,ICD-10-PCS,6574769783,2,3,Private including HMO,Employer-Sponsored Plans,no,no,no,no,yes,yes,never,3,Not a transfer,Not a transfer,57000
+9,Male,Asian or Pacific Islander,6,ICD-10-PCS,1385514128,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to another health facility,68000
+46,Other,Hispanic,9,ICD-9-CM,1025971841,2,3,Private including HMO,Secondary Health Insurance,no,no,no,yes,no,no,current,3,Not a transfer,Not a transfer,19000
+65,Male,Other,9,ICD-10-PCS,1694472820,1,2,Medicare,Government Programs,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,60000
+26,Other,Other,2,ICD-9-CM,9443185519,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,4,Not a transfer,Transferred out to another health facility,31500
+25,Other,Asian or Pacific Islander,1,ICD-10-CM,6178847399,1,3,Self-Pay,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,50000
+74,Female,Hispanic,2,ICD-10-CM,8479969482,1,2,Medicare,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,38000
+5,Male,White,5,ICD-9-CM,3347960980,1,3,No charge,Secondary Health Insurance,no,yes,yes,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,42000
+9,Female,Black,4,ICD-10-CM,9093774518,1,2,Medicaid,None,no,yes,no,no,no,yes,never,3,Transferred from another health facility,Not a transfer,47000
+16,Male,Native American,4,ICD-10-CM/PCS,3379382935,2,2,Medicaid,Government Programs,no,yes,no,no,no,yes,former,4,Transferred from acute care hospital,Transferred out to acute are hospital,9000
+50,Other,White,9,ICD-10-CM/PCS,7590881644,2,3,Medicare,COBRA Coverage,no,no,yes,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,500
+38,Other,Asian or Pacific Islander,8,ICD-10-CM,1839485713,1,3,Self-Pay,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,46000
+53,Male,Native American,6,ICD-9-CM,6008916975,2,2,Medicaid,Secondary Health Insurance,yes,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,36000
+49,Female,Black,1,ICD-9-CM,2408054353,1,2,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,31000
+31,Female,Black,2,ICD-10-CM,2598081096,2,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,46000
+77,Female,Hispanic,6,ICD-10-PCS,8558385072,2,1,Medicare,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,64000
+30,Female,Native American,2,ICD-10-CM/PCS,2455235806,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Not a transfer,3000
+51,Other,Hispanic,5,ICD-10-PCS,2104075854,1,1,Medicaid,Secondary Health Insurance,yes,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,64000
+60,Other,White,5,ICD-9-CM,9242935731,1,2,Medicaid,Employer-Sponsored Plans,yes,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,35000
+67,Other,Other,6,ICD-9-CM,7115046104,2,1,Medicare,Employer-Sponsored Plans,no,no,no,no,no,yes,former,3,Transferred from another health facility,Transferred out to acute are hospital,30000
+52,Other,Other,6,ICD-10-PCS,6764415641,1,2,Medicaid,None,no,yes,no,no,yes,no,current,3,Transferred from acute care hospital,Not a transfer,68000
+65,Other,Other,6,ICD-10-CM,9424796251,1,2,Medicare,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Not a transfer,44000
+30,Female,Native American,2,ICD-10-PCS,2910626641,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,58500
+40,Female,Other,3,ICD-10-PCS,4906480937,1,3,Private including HMO,Government Programs,no,yes,no,no,no,no,never,3,Not a transfer,Not a transfer,51000
+5,Female,White,6,ICD-10-CM/PCS,4644158518,2,3,Private including HMO,Government Programs,yes,yes,yes,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,7000
+12,Female,Hispanic,8,ICD-10-CM/PCS,6855137122,2,2,Medicaid,None,no,no,no,yes,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,12000
+56,Other,Native American,1,ICD-10-PCS,7971635462,2,1,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,never,4,Transferred from another health facility,Not a transfer,70500
+51,Other,Hispanic,1,ICD-10-PCS,8480232237,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,never,4,Transferred from another health facility,Not a transfer,68000
+60,Other,Native American,2,ICD-9-CM,6991708477,2,2,Medicaid,COBRA Coverage,yes,yes,no,yes,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,42500
+18,Male,Hispanic,6,ICD-10-CM/PCS,1220174896,2,3,Self-Pay,Secondary Health Insurance,no,yes,no,no,no,no,former,3,Transferred from acute care hospital,Transferred out to another health facility,7000
+32,Female,Black,9,ICD-10-CM/PCS,2726045449,1,1,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,never,3,Transferred from another health facility,Not a transfer,8500
+6,Female,Hispanic,4,ICD-9-CM,8188728271,1,3,Self-Pay,Employer-Sponsored Plans,no,yes,no,no,yes,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,43000
+30,Other,Other,3,ICD-10-CM,8021172623,1,1,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,never,4,Transferred from acute care hospital,Transferred out to acute are hospital,50500
+18,Female,Black,8,ICD-10-CM/PCS,7638713642,1,2,Medicaid,None,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,11000
+63,Female,Hispanic,9,ICD-10-CM/PCS,6171417177,2,3,Medicare,Secondary Health Insurance,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,4000
+60,Other,Native American,5,ICD-10-CM,6548716230,1,1,Medicaid,Government Programs,no,yes,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,49000
+11,Male,Native American,9,ICD-10-CM/PCS,4215249945,1,2,Medicaid,None,no,yes,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,11000
+7,Male,Native American,2,ICD-10-CM/PCS,3072756524,1,2,Medicaid,Secondary Health Insurance,yes,no,no,no,no,no,never,4,Not a transfer,Not a transfer,5000
+27,Male,Asian or Pacific Islander,3,ICD-10-CM,9405830090,1,2,Medicaid,Secondary Health Insurance,yes,no,no,no,no,no,never,4,Not a transfer,Transferred out to another health facility,44000
+22,Other,White,7,ICD-10-CM,7129369485,2,3,No charge,Government Programs,no,yes,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,52000
+42,Female,Native American,7,ICD-10-PCS,4856688267,1,3,Medicaid,Employer-Sponsored Plans,yes,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,65000
+19,Other,Black,6,ICD-9-CM,7550037035,2,2,Medicaid,None,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,37000
+68,Other,Native American,6,ICD-9-CM,4037739788,1,3,Medicare,Government Programs,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to another health facility,30000
+32,Female,Asian or Pacific Islander,2,ICD-10-CM,6378041559,2,1,Medicaid,Government Programs,no,no,no,no,yes,no,former,4,Transferred from another health facility,Not a transfer,47000
+78,Male,Other,6,ICD-10-CM,7213642849,2,2,Medicare,Employer-Sponsored Plans,no,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,38000
+43,Male,Black,4,ICD-10-CM/PCS,1884677531,1,2,Medicaid,None,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to another health facility,6000
+61,Other,Asian or Pacific Islander,3,ICD-10-PCS,9492369352,2,3,Other,Government Programs,no,no,no,no,yes,no,current,4,Transferred from another health facility,Transferred out to another health facility,73000
+21,Male,Other,2,ICD-10-PCS,3848897814,1,2,Medicaid,Employer-Sponsored Plans,yes,no,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,70000
+48,Other,Black,1,ICD-10-CM,4603905789,2,1,Medicaid,None,no,no,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,48000
+29,Other,Hispanic,5,ICD-10-CM/PCS,5952717907,2,3,Other,COBRA Coverage,no,no,yes,no,no,no,current,3,Transferred from another health facility,Not a transfer,8500
+21,Female,White,2,ICD-10-CM/PCS,7873027458,2,3,Self-Pay,Secondary Health Insurance,no,yes,no,no,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,10000
+17,Female,White,2,ICD-9-CM,7758402831,1,2,Medicaid,Employer-Sponsored Plans,no,yes,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,38000
+29,Female,Asian or Pacific Islander,7,ICD-9-CM,5588917893,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,29000
+72,Other,Other,8,ICD-10-CM/PCS,4854292159,1,2,Medicare,COBRA Coverage,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,4500
+14,Female,White,8,ICD-9-CM,6703041547,2,3,Medicaid,Government Programs,no,no,no,no,no,yes,former,4,Not a transfer,Transferred out to another health facility,36000
+71,Male,Other,4,ICD-10-CM,7860404445,2,2,Medicare,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,40000
+22,Male,Other,1,ICD-10-CM/PCS,2690651698,2,1,Medicaid,None,no,no,no,no,yes,yes,current,4,Not a transfer,Not a transfer,14000
+38,Other,Asian or Pacific Islander,7,ICD-9-CM,1378534506,2,2,Medicaid,Employer-Sponsored Plans,no,no,yes,no,no,no,current,4,Not a transfer,Transferred out to another health facility,34000
+12,Other,Asian or Pacific Islander,1,ICD-10-PCS,4336323887,2,2,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,3,Not a transfer,Not a transfer,64000
+44,Female,Asian or Pacific Islander,4,ICD-10-CM/PCS,1780900874,2,3,Private including HMO,None,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Not a transfer,1000
+46,Other,White,8,ICD-10-CM/PCS,4034841622,1,2,Medicaid,Secondary Health Insurance,no,yes,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,0
+45,Other,Asian or Pacific Islander,2,ICD-10-PCS,3299301156,1,3,Private including HMO,Government Programs,no,yes,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,58000
+10,Male,White,6,ICD-10-CM,3728693006,1,2,Medicaid,Government Programs,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,39000
+56,Male,Asian or Pacific Islander,6,ICD-10-PCS,6204408848,2,1,Medicaid,Employer-Sponsored Plans,yes,yes,no,no,yes,yes,current,3,Transferred from another health facility,Not a transfer,74000
+30,Female,Native American,9,ICD-10-CM/PCS,5473196948,1,1,Medicaid,Employer-Sponsored Plans,yes,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,10000
+68,Other,Other,5,ICD-10-CM,3404085002,2,3,Medicare,None,no,yes,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,41000
+63,Other,Asian or Pacific Islander,4,ICD-9-CM,8979769671,1,3,Self-Pay,COBRA Coverage,no,no,no,no,no,yes,current,3,Not a transfer,Not a transfer,40500
+60,Male,Black,5,ICD-9-CM,8159398871,1,2,Medicaid,Secondary Health Insurance,yes,no,no,no,yes,no,never,4,Not a transfer,Not a transfer,39000
+63,Other,Other,5,ICD-9-CM,2870012962,2,2,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,34500
+74,Male,Other,8,ICD-10-CM/PCS,9289996427,2,1,Medicare,COBRA Coverage,no,no,no,no,no,yes,former,4,Transferred from acute care hospital,Not a transfer,4500
+37,Female,Asian or Pacific Islander,8,ICD-10-PCS,7560940395,1,2,Medicaid,Employer-Sponsored Plans,no,yes,no,no,yes,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,68000
+57,Male,Hispanic,2,ICD-10-CM,5521856168,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,38000
+26,Other,Asian or Pacific Islander,7,ICD-9-CM,8413478009,1,3,No charge,Employer-Sponsored Plans,no,no,no,no,no,yes,never,4,Not a transfer,Transferred out to another health facility,43000
+25,Female,Other,8,ICD-10-CM,1520992400,1,2,Medicaid,COBRA Coverage,no,no,no,no,yes,no,never,3,Not a transfer,Not a transfer,43500
+74,Male,Black,6,ICD-10-CM/PCS,3424150795,2,3,Medicare,Secondary Health Insurance,no,no,no,no,no,no,never,4,Not a transfer,Not a transfer,0
+74,Male,Other,5,ICD-9-CM,6009028492,1,2,Medicare,Employer-Sponsored Plans,no,no,no,no,no,yes,never,4,Transferred from acute care hospital,Not a transfer,33000
+8,Female,Black,9,ICD-10-CM/PCS,6925927017,2,1,Medicaid,Government Programs,no,no,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,4000
+79,Female,White,3,ICD-10-PCS,3650829013,2,3,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,57000
+66,Male,Native American,4,ICD-10-CM/PCS,5165340291,1,3,Medicare,Government Programs,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,10000
+66,Other,Other,9,ICD-10-CM/PCS,8420119236,2,2,Medicare,Secondary Health Insurance,no,no,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to another health facility,2000
+28,Male,Asian or Pacific Islander,6,ICD-10-PCS,7836372321,1,3,Other,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,67000
+59,Female,White,8,ICD-10-CM,6119701383,2,1,Medicaid,None,no,yes,no,no,yes,yes,never,4,Transferred from acute care hospital,Transferred out to acute are hospital,55000
+13,Male,Native American,7,ICD-10-PCS,3863393074,2,3,Medicare,Employer-Sponsored Plans,yes,yes,no,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,66000
+7,Female,Asian or Pacific Islander,2,ICD-10-PCS,3587585406,1,3,Other,COBRA Coverage,no,no,yes,no,yes,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,75500
+35,Female,Hispanic,3,ICD-10-CM/PCS,7565530119,2,2,Medicaid,COBRA Coverage,yes,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,7500
+44,Other,Asian or Pacific Islander,1,ICD-10-CM,6731387018,2,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,26000
+40,Female,Black,9,ICD-9-CM,4458197715,1,2,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,former,4,Transferred from acute care hospital,Not a transfer,37500
+28,Female,Black,7,ICD-10-PCS,7168629707,2,2,Medicaid,Employer-Sponsored Plans,no,yes,yes,no,yes,yes,current,3,Transferred from another health facility,Transferred out to another health facility,72000
+10,Other,Hispanic,1,ICD-10-CM,3827408909,2,3,Medicaid,Government Programs,no,no,no,no,no,yes,never,3,Not a transfer,Transferred out to another health facility,43000
+70,Female,White,3,ICD-10-PCS,6483617236,1,1,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,former,4,Transferred from another health facility,Transferred out to acute are hospital,59000
+79,Other,Native American,4,ICD-10-PCS,7692294292,1,2,Medicare,Secondary Health Insurance,no,yes,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,63000
+8,Other,Asian or Pacific Islander,4,ICD-10-PCS,9301603494,2,3,Other,COBRA Coverage,no,no,yes,no,no,yes,never,3,Transferred from acute care hospital,Not a transfer,71500
+10,Female,Black,5,ICD-10-PCS,2408251008,2,2,Medicaid,Government Programs,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to another health facility,64000
+55,Female,White,3,ICD-10-CM/PCS,8460926885,2,1,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,2000
+66,Male,Hispanic,3,ICD-10-CM,5452648181,1,1,Medicare,Government Programs,yes,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,49000
+61,Other,Other,1,ICD-10-CM,3039117355,2,2,Medicaid,Government Programs,yes,no,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,51000
+70,Male,Black,7,ICD-10-CM,6739465259,2,1,Medicare,Employer-Sponsored Plans,no,no,yes,no,no,no,former,4,Not a transfer,Not a transfer,42000
+79,Female,Hispanic,1,ICD-10-PCS,9248638838,2,3,Medicare,None,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to another health facility,59000
+12,Male,Asian or Pacific Islander,2,ICD-10-CM/PCS,5346519929,2,3,No charge,Secondary Health Insurance,no,yes,no,yes,yes,yes,current,4,Transferred from another health facility,Not a transfer,22000
+30,Other,Native American,4,ICD-10-PCS,7669289104,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,63000
+55,Male,Black,4,ICD-10-PCS,7378103703,2,1,Medicaid,Government Programs,no,yes,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,64000
+49,Other,Black,5,ICD-10-CM,9956737801,1,3,Private including HMO,Government Programs,yes,yes,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,39000
+48,Female,Asian or Pacific Islander,2,ICD-10-PCS,3224837879,1,3,Medicare,COBRA Coverage,no,no,no,no,no,no,former,3,Not a transfer,Transferred out to another health facility,56500
+9,Female,Other,4,ICD-9-CM,7932877140,2,3,No charge,None,no,no,no,no,no,yes,former,4,Transferred from another health facility,Transferred out to another health facility,46000
+74,Other,White,1,ICD-10-PCS,2016231293,2,2,Medicare,Government Programs,no,no,no,no,yes,yes,current,4,Not a transfer,Transferred out to another health facility,69000
+30,Female,Native American,2,ICD-9-CM,2843183034,1,2,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,3,Not a transfer,Transferred out to another health facility,28500
+72,Female,Black,1,ICD-10-PCS,5616642487,1,3,Medicare,None,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,66000
+23,Female,Native American,4,ICD-10-CM/PCS,6132306714,1,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,0
+24,Female,Black,4,ICD-10-CM/PCS,7463545453,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,3500
+16,Other,Native American,7,ICD-10-CM,4301743795,2,1,Medicaid,None,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Not a transfer,49000
+51,Male,Hispanic,9,ICD-10-PCS,5561025567,2,1,Medicaid,COBRA Coverage,yes,yes,no,no,no,no,never,3,Not a transfer,Transferred out to another health facility,65500
+5,Male,Black,9,ICD-9-CM,7772338457,2,2,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,32000
+18,Female,Native American,5,ICD-9-CM,1512004938,1,3,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,26000
+68,Male,White,1,ICD-10-PCS,9746533601,1,2,Medicare,Secondary Health Insurance,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,54000
+42,Male,Hispanic,1,ICD-9-CM,1226533555,1,3,Private including HMO,Government Programs,no,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,22000
+41,Female,Hispanic,6,ICD-10-CM/PCS,9783858239,1,1,Medicaid,Government Programs,no,no,no,no,yes,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,9000
+15,Female,White,2,ICD-9-CM,4624924372,2,1,Medicaid,None,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,38000
+7,Male,Native American,8,ICD-10-CM,6422002705,2,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,41500
+37,Other,Asian or Pacific Islander,9,ICD-10-CM/PCS,1171465953,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,former,4,Transferred from acute care hospital,Transferred out to acute are hospital,4000
+10,Female,White,4,ICD-10-CM/PCS,3452027125,1,3,Medicaid,Government Programs,no,yes,no,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,5000
+54,Other,Native American,5,ICD-10-CM/PCS,6722729069,1,1,Medicaid,None,no,yes,no,no,no,yes,former,3,Transferred from another health facility,Not a transfer,8000
+14,Male,White,8,ICD-10-PCS,6650171991,1,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Not a transfer,Not a transfer,53000
+9,Female,White,3,ICD-10-PCS,6870354091,1,3,Private including HMO,COBRA Coverage,no,yes,no,no,yes,no,current,3,Not a transfer,Transferred out to acute are hospital,55500
+27,Other,Black,5,ICD-10-CM/PCS,1427326345,2,2,Medicaid,Government Programs,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,3000
+14,Female,Native American,3,ICD-10-PCS,5150116490,2,1,Medicaid,Government Programs,yes,no,no,no,yes,no,current,3,Transferred from another health facility,Not a transfer,69000
+48,Male,Asian or Pacific Islander,3,ICD-9-CM,9461405369,1,1,Medicaid,Government Programs,no,yes,no,yes,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,34000
+6,Other,Black,3,ICD-10-PCS,9010419363,1,2,Medicaid,Secondary Health Insurance,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,62000
+17,Male,White,7,ICD-10-PCS,3580382638,1,3,No charge,Secondary Health Insurance,no,no,no,no,no,yes,never,3,Transferred from another health facility,Transferred out to acute are hospital,68000
+44,Male,Other,7,ICD-10-CM/PCS,4010195239,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,0
+6,Female,White,7,ICD-10-CM,2224949571,2,3,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from another health facility,Not a transfer,43000
+69,Other,White,8,ICD-10-CM,8004105618,2,2,Medicare,None,no,no,no,no,no,yes,former,3,Transferred from acute care hospital,Not a transfer,43000
+67,Male,Native American,5,ICD-10-CM,7251967204,1,3,Medicare,Employer-Sponsored Plans,no,no,yes,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,43000
+77,Male,Native American,5,ICD-9-CM,7365216018,2,1,Medicare,None,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,36000
+21,Other,Black,4,ICD-10-PCS,8549592854,1,3,Self-Pay,Government Programs,no,no,no,yes,no,no,current,3,Not a transfer,Transferred out to acute are hospital,70000
+13,Male,Asian or Pacific Islander,7,ICD-10-CM,5536448820,2,3,No charge,None,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to another health facility,49000
+79,Male,Black,4,ICD-10-CM/PCS,3085783431,2,1,Medicare,COBRA Coverage,no,yes,no,no,no,no,never,4,Not a transfer,Transferred out to another health facility,2500
+19,Other,Hispanic,2,ICD-10-CM,9215416888,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to another health facility,41000
+28,Other,White,4,ICD-10-CM,7641767837,1,3,Private including HMO,COBRA Coverage,yes,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,37500
+42,Other,Other,8,ICD-10-PCS,6367610380,1,3,No charge,COBRA Coverage,yes,yes,no,no,yes,yes,never,4,Transferred from acute care hospital,Transferred out to acute are hospital,85500
+39,Other,White,9,ICD-10-PCS,7505768185,2,2,Medicaid,Government Programs,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,65000
+53,Female,White,3,ICD-10-PCS,5363807690,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,4,Transferred from another health facility,Transferred out to another health facility,68000
+73,Other,Black,7,ICD-9-CM,6914110540,1,3,Medicare,COBRA Coverage,no,yes,no,no,yes,yes,current,4,Transferred from another health facility,Transferred out to another health facility,40500
+66,Female,Other,9,ICD-9-CM,3590780373,1,1,Medicare,Government Programs,no,yes,no,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,36000
+64,Female,Other,4,ICD-10-CM,7767430743,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,39000
+54,Female,Other,3,ICD-10-PCS,8586403515,1,3,No charge,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,66000
+79,Male,Black,5,ICD-10-CM,2745545759,1,3,Medicare,Government Programs,no,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to acute are hospital,40000
+13,Female,White,1,ICD-10-CM/PCS,3786072068,1,3,Private including HMO,None,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,0
+38,Female,Black,3,ICD-10-CM/PCS,1563877556,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Not a transfer,Not a transfer,1000
+39,Male,Native American,8,ICD-10-PCS,6625083057,1,2,Medicaid,COBRA Coverage,yes,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,70500
+5,Male,Native American,8,ICD-10-PCS,7331460160,1,1,Medicaid,COBRA Coverage,no,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,64500
+44,Male,Black,4,ICD-10-CM/PCS,1173232548,2,3,No charge,None,no,no,no,no,no,yes,never,4,Not a transfer,Transferred out to another health facility,17000
+68,Other,Other,2,ICD-10-PCS,3012436975,2,2,Medicare,None,no,no,no,no,no,yes,current,4,Not a transfer,Not a transfer,66000
+26,Male,White,8,ICD-9-CM,1635476204,2,3,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,current,4,Transferred from another health facility,Transferred out to another health facility,40500
+64,Male,Black,8,ICD-9-CM,5229058778,2,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,19000
+68,Female,Black,4,ICD-10-PCS,1559862422,1,1,Medicare,Government Programs,yes,no,no,no,yes,no,current,3,Not a transfer,Transferred out to another health facility,67000
+76,Male,Black,3,ICD-10-CM/PCS,8598059708,2,3,Medicare,None,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,0
+15,Other,Hispanic,2,ICD-10-CM,9680168244,2,2,Medicaid,None,no,no,no,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,45000
+18,Male,Native American,9,ICD-10-PCS,5442848664,1,3,Other,None,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,70000
+64,Other,Other,1,ICD-10-PCS,8802474852,1,3,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,61000
+34,Male,Asian or Pacific Islander,7,ICD-10-CM,1372401883,1,1,Medicaid,Secondary Health Insurance,yes,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,44000
+39,Male,Other,5,ICD-10-PCS,3312251915,2,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Not a transfer,Not a transfer,60000
+41,Male,Asian or Pacific Islander,8,ICD-10-CM,4922291637,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,39000
+9,Male,Hispanic,4,ICD-10-CM/PCS,9312456045,2,3,No charge,Secondary Health Insurance,no,yes,no,no,no,no,never,3,Not a transfer,Transferred out to acute are hospital,7000
+30,Other,Black,7,ICD-9-CM,8522305868,1,1,Medicaid,Secondary Health Insurance,yes,yes,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,37000
+66,Other,Hispanic,5,ICD-10-CM/PCS,3906048879,1,1,Medicare,COBRA Coverage,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Not a transfer,1500
+8,Female,Hispanic,5,ICD-9-CM,6855775309,2,1,Medicaid,None,yes,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,43000
+46,Other,White,9,ICD-10-CM,6478517571,1,1,Medicaid,COBRA Coverage,no,yes,no,no,yes,no,never,4,Transferred from another health facility,Not a transfer,48500
+22,Male,Native American,9,ICD-9-CM,2426670112,1,3,No charge,Employer-Sponsored Plans,no,yes,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,41000
+44,Female,Asian or Pacific Islander,9,ICD-10-CM/PCS,4287008455,1,3,Private including HMO,Government Programs,no,no,yes,yes,no,yes,current,4,Transferred from another health facility,Transferred out to acute are hospital,3000
+76,Female,Black,6,ICD-9-CM,4991757567,1,2,Medicare,None,no,no,yes,no,no,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,36000
+43,Female,Asian or Pacific Islander,6,ICD-10-CM,9863930116,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Not a transfer,Not a transfer,38000
+18,Male,Other,5,ICD-9-CM,2663110738,2,1,Medicaid,COBRA Coverage,yes,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,40500
+36,Other,Asian or Pacific Islander,9,ICD-10-PCS,6509435698,2,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to acute are hospital,66000
+55,Male,Other,8,ICD-10-CM/PCS,6602743691,1,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,8000
+42,Female,Native American,7,ICD-10-PCS,9516691971,2,2,Medicaid,Government Programs,no,no,yes,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,62000
+27,Male,Other,7,ICD-10-CM,8738844579,2,3,Medicare,Employer-Sponsored Plans,no,no,no,no,yes,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,44000
+67,Male,Asian or Pacific Islander,6,ICD-9-CM,2866296258,2,2,Medicare,COBRA Coverage,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,32500
+19,Other,Asian or Pacific Islander,5,ICD-10-PCS,4734618684,1,1,Medicaid,Government Programs,yes,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,64000
+29,Other,Other,4,ICD-10-PCS,1775918225,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,63000
+21,Female,Hispanic,3,ICD-9-CM,6234584638,1,3,Medicaid,COBRA Coverage,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Not a transfer,37500
+70,Male,Native American,3,ICD-9-CM,2401106422,2,1,Medicare,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,29000
+57,Male,White,6,ICD-10-CM/PCS,8542788200,2,3,Private including HMO,COBRA Coverage,yes,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,0
+55,Other,Black,4,ICD-10-PCS,6986132739,1,3,Medicare,COBRA Coverage,no,no,yes,no,no,no,current,3,Not a transfer,Not a transfer,59500
+43,Male,Asian or Pacific Islander,6,ICD-10-PCS,3612247976,1,2,Medicaid,None,no,no,no,no,no,yes,never,4,Transferred from acute care hospital,Transferred out to acute are hospital,68000
+55,Male,Black,3,ICD-10-CM,8483421902,2,3,Other,COBRA Coverage,yes,no,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,52500
+74,Male,White,4,ICD-10-CM/PCS,7332107497,2,1,Medicare,None,no,no,no,no,yes,yes,never,4,Not a transfer,Not a transfer,12000
+10,Other,Black,9,ICD-10-CM,1721640614,1,3,No charge,None,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,49000
+71,Female,White,5,ICD-10-PCS,2717913967,2,3,Medicare,None,no,no,yes,no,no,yes,never,3,Not a transfer,Transferred out to another health facility,66000
+11,Female,Other,7,ICD-10-CM,9836430682,2,2,Medicaid,Employer-Sponsored Plans,yes,no,no,no,no,no,never,4,Not a transfer,Transferred out to another health facility,46000
+55,Male,Hispanic,2,ICD-10-PCS,9093193385,2,3,Medicare,Government Programs,no,yes,no,no,yes,yes,former,3,Transferred from another health facility,Transferred out to acute are hospital,68000
+76,Female,Asian or Pacific Islander,5,ICD-10-PCS,5946698150,2,2,Medicare,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,56000
+46,Other,White,9,ICD-10-CM,7862533168,2,2,Medicaid,None,no,no,yes,no,no,no,current,3,Transferred from another health facility,Transferred out to another health facility,44000
+68,Other,Black,3,ICD-10-CM,8150000421,2,1,Medicare,Government Programs,no,yes,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,43000
+19,Female,Asian or Pacific Islander,9,ICD-9-CM,9621515649,2,1,Medicaid,Government Programs,yes,yes,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,36000
+33,Female,Hispanic,6,ICD-9-CM,3970915287,1,1,Medicaid,None,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,35000
+37,Male,Other,4,ICD-9-CM,5459897822,1,1,Medicaid,Government Programs,no,yes,no,no,yes,no,former,3,Not a transfer,Not a transfer,36000
+31,Female,Asian or Pacific Islander,7,ICD-10-PCS,4080616315,2,2,Medicaid,Government Programs,no,yes,no,no,yes,no,never,3,Not a transfer,Not a transfer,66000
+40,Male,White,8,ICD-10-CM,7794939471,2,3,Other,Employer-Sponsored Plans,no,no,no,no,no,yes,never,3,Transferred from another health facility,Not a transfer,48000
+33,Male,Hispanic,6,ICD-10-CM/PCS,4426545006,2,1,Medicaid,Government Programs,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Not a transfer,2000
+42,Other,Black,5,ICD-10-PCS,4712424846,1,1,Medicaid,None,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,65000
+61,Other,Hispanic,6,ICD-10-CM/PCS,6953043435,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,yes,current,3,Not a transfer,Transferred out to another health facility,6000
+31,Other,Hispanic,5,ICD-10-CM,9446938531,2,3,Private including HMO,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,29000
+59,Other,Native American,8,ICD-10-PCS,1357440341,1,1,Medicaid,Secondary Health Insurance,no,no,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,61000
+37,Female,Hispanic,1,ICD-10-CM/PCS,9001350648,2,3,No charge,None,no,no,no,yes,yes,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,22000
+72,Other,Hispanic,7,ICD-10-CM/PCS,7358956534,2,2,Medicare,Secondary Health Insurance,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,2000
+70,Female,Asian or Pacific Islander,2,ICD-9-CM,2791706935,2,2,Medicare,Employer-Sponsored Plans,no,no,yes,no,no,no,current,4,Not a transfer,Not a transfer,32000
+14,Other,Black,9,ICD-9-CM,8844605782,2,2,Medicaid,None,no,no,no,no,yes,yes,never,4,Transferred from acute care hospital,Transferred out to acute are hospital,43000
+9,Female,Asian or Pacific Islander,1,ICD-9-CM,7690222004,2,3,Medicaid,None,yes,no,no,no,yes,no,current,3,Transferred from another health facility,Not a transfer,41000
+78,Male,Asian or Pacific Islander,6,ICD-10-PCS,2249306574,2,1,Medicare,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,59000
+42,Female,White,9,ICD-10-CM,3016087025,2,1,Medicaid,Government Programs,no,no,no,no,no,yes,never,4,Transferred from another health facility,Transferred out to acute are hospital,46000
+17,Female,Asian or Pacific Islander,1,ICD-10-CM,4684471116,1,1,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Transferred from another health facility,Not a transfer,46000
+35,Other,Native American,4,ICD-9-CM,1827538833,2,1,Medicaid,Government Programs,no,no,no,yes,no,no,current,4,Not a transfer,Transferred out to acute are hospital,35000
+51,Female,Native American,4,ICD-9-CM,5849324093,1,1,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,32500
+56,Male,White,9,ICD-9-CM,1713759147,2,3,Self-Pay,Employer-Sponsored Plans,no,no,no,no,yes,no,current,3,Not a transfer,Transferred out to acute are hospital,41000
+60,Male,Other,5,ICD-10-CM/PCS,2429062211,2,2,Medicaid,None,no,no,no,no,yes,no,never,4,Transferred from another health facility,Transferred out to another health facility,10000
+19,Other,Black,5,ICD-9-CM,6768255812,1,1,Medicaid,None,no,yes,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,33000
+33,Male,Black,6,ICD-10-CM/PCS,1769503180,1,2,Medicaid,Government Programs,no,no,no,no,yes,yes,current,3,Not a transfer,Transferred out to acute are hospital,9000
+12,Female,Asian or Pacific Islander,1,ICD-10-CM,7272178569,2,3,Medicare,None,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,46000
+9,Male,Asian or Pacific Islander,1,ICD-10-PCS,8342982501,1,3,Medicare,None,no,no,no,no,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,62000
+33,Other,Other,9,ICD-10-PCS,1415299975,2,1,Medicaid,Secondary Health Insurance,no,yes,yes,no,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,64000
+51,Female,Asian or Pacific Islander,3,ICD-10-PCS,4094338139,2,3,Private including HMO,None,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Not a transfer,51000
+72,Other,Black,4,ICD-10-PCS,2210429158,1,2,Medicare,COBRA Coverage,no,no,no,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,60500
+49,Female,Hispanic,1,ICD-10-CM/PCS,6086535764,1,1,Medicaid,Government Programs,no,no,no,no,yes,no,never,3,Transferred from another health facility,Transferred out to another health facility,5000
+6,Male,Native American,9,ICD-10-CM/PCS,5464025300,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,former,3,Not a transfer,Transferred out to another health facility,3000
+31,Other,Hispanic,8,ICD-9-CM,1093830920,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,no,former,3,Transferred from another health facility,Not a transfer,33000
+40,Other,Hispanic,2,ICD-10-CM/PCS,4326390340,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Transferred out to another health facility,0
+40,Female,Black,8,ICD-9-CM,5872354488,1,1,Medicaid,Employer-Sponsored Plans,no,no,yes,no,no,no,never,3,Not a transfer,Not a transfer,31000
+30,Other,Hispanic,7,ICD-9-CM,7303812062,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,yes,current,3,Transferred from another health facility,Transferred out to acute are hospital,37000
+47,Female,Other,6,ICD-10-PCS,9706356798,1,1,Medicaid,Government Programs,no,no,no,yes,no,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,65000
+31,Female,White,1,ICD-10-CM/PCS,5340121248,1,1,Medicaid,Government Programs,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,12000
+73,Female,Asian or Pacific Islander,7,ICD-10-CM/PCS,4272292173,1,2,Medicare,COBRA Coverage,no,no,no,no,no,no,current,4,Transferred from acute care hospital,Not a transfer,500
+24,Female,White,7,ICD-9-CM,7154000604,2,3,Medicare,Secondary Health Insurance,no,yes,no,no,no,yes,current,4,Not a transfer,Not a transfer,33000
+15,Male,Native American,9,ICD-9-CM,4839415168,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,yes,current,3,Not a transfer,Transferred out to acute are hospital,37000
+78,Female,Asian or Pacific Islander,1,ICD-10-CM,7480929750,1,1,Medicare,COBRA Coverage,no,no,no,no,yes,yes,current,3,Not a transfer,Transferred out to another health facility,45500
+42,Other,Hispanic,2,ICD-10-CM,6491950261,1,2,Medicaid,Secondary Health Insurance,no,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,39000
+10,Male,Native American,9,ICD-9-CM,5118323355,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,28000
+76,Other,Asian or Pacific Islander,9,ICD-10-CM,1613382775,1,1,Medicare,Employer-Sponsored Plans,no,no,no,no,yes,no,never,4,Transferred from acute care hospital,Transferred out to another health facility,44000
+27,Male,Other,6,ICD-10-CM,3490349073,2,2,Medicaid,Government Programs,no,yes,no,no,no,no,current,3,Not a transfer,Not a transfer,41000
+51,Female,Other,6,ICD-9-CM,2198331484,2,1,Medicaid,None,no,no,no,no,no,no,current,3,Not a transfer,Transferred out to acute are hospital,31000
+50,Male,Other,4,ICD-9-CM,5289782976,1,3,No charge,Secondary Health Insurance,no,no,no,no,yes,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,43000
+16,Male,Other,4,ICD-10-CM/PCS,1236078466,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,yes,no,no,current,4,Transferred from another health facility,Not a transfer,5000
+17,Other,Hispanic,5,ICD-9-CM,7779785492,1,2,Medicaid,Secondary Health Insurance,no,yes,no,yes,no,no,current,4,Transferred from another health facility,Transferred out to acute are hospital,34000
+66,Other,White,3,ICD-9-CM,9944579304,1,3,Medicare,COBRA Coverage,no,no,yes,no,no,yes,current,3,Transferred from acute care hospital,Not a transfer,33500
+64,Female,Asian or Pacific Islander,1,ICD-10-PCS,2887908478,2,3,Private including HMO,COBRA Coverage,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to another health facility,52500
+47,Male,Hispanic,1,ICD-10-CM/PCS,3192409573,2,1,Medicaid,None,no,no,no,no,yes,yes,current,4,Not a transfer,Not a transfer,14000
+72,Male,Other,7,ICD-10-CM/PCS,2111504950,1,2,Medicare,Employer-Sponsored Plans,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Not a transfer,4000
+9,Male,White,1,ICD-10-CM/PCS,6597286356,2,1,Medicaid,Government Programs,yes,no,no,yes,no,yes,never,3,Transferred from another health facility,Transferred out to acute are hospital,12000
+41,Female,Native American,1,ICD-10-PCS,6733258610,1,1,Medicaid,Employer-Sponsored Plans,no,yes,no,no,yes,yes,current,3,Transferred from acute care hospital,Not a transfer,69000
+76,Female,Native American,3,ICD-9-CM,3451798988,2,2,Medicare,Secondary Health Insurance,no,no,no,no,yes,no,current,4,Transferred from acute care hospital,Not a transfer,32000
+35,Female,Native American,4,ICD-10-CM/PCS,4906682454,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,never,3,Transferred from acute care hospital,Transferred out to acute are hospital,3500
+13,Female,Other,4,ICD-10-CM/PCS,1026559312,1,1,Medicaid,Secondary Health Insurance,no,yes,no,no,no,yes,current,4,Not a transfer,Not a transfer,6000
+55,Female,Native American,2,ICD-10-CM,4481859393,1,3,Medicare,None,yes,no,no,no,no,no,current,4,Not a transfer,Transferred out to acute are hospital,47000
+33,Other,Black,1,ICD-10-CM/PCS,5988379838,1,1,Medicaid,COBRA Coverage,yes,no,no,no,no,no,never,3,Not a transfer,Transferred out to another health facility,4500
+44,Male,Asian or Pacific Islander,3,ICD-9-CM,9421341225,2,3,Other,Government Programs,no,yes,no,no,no,yes,current,3,Transferred from another health facility,Not a transfer,41000
+45,Male,Asian or Pacific Islander,4,ICD-9-CM,1060974096,1,1,Medicaid,COBRA Coverage,no,no,no,no,no,no,never,3,Transferred from acute care hospital,Transferred out to another health facility,28500
+15,Male,Other,3,ICD-10-CM,7227460670,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,yes,yes,current,4,Transferred from acute care hospital,Not a transfer,50000
+27,Male,Black,8,ICD-10-CM/PCS,8270988387,2,3,Private including HMO,Employer-Sponsored Plans,no,no,no,no,yes,yes,former,4,Transferred from another health facility,Not a transfer,1000
+5,Male,Hispanic,1,ICD-10-CM/PCS,5275302822,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,6500
+50,Male,Hispanic,2,ICD-10-CM/PCS,6529818484,1,2,Medicaid,None,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,2000
+25,Male,Native American,7,ICD-10-PCS,7606605050,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,58000
+40,Male,White,4,ICD-10-CM/PCS,4664969412,1,2,Medicaid,Employer-Sponsored Plans,yes,yes,no,no,no,no,never,4,Not a transfer,Transferred out to acute are hospital,9000
+58,Other,Hispanic,8,ICD-9-CM,7435291339,1,2,Medicaid,Government Programs,no,no,yes,no,no,no,former,4,Not a transfer,Transferred out to another health facility,35000
+61,Male,White,3,ICD-9-CM,1976078792,2,1,Medicaid,COBRA Coverage,no,no,no,no,yes,no,current,3,Transferred from acute care hospital,Not a transfer,33500
+5,Other,Asian or Pacific Islander,6,ICD-10-PCS,3212625553,2,3,Self-Pay,Employer-Sponsored Plans,no,no,no,no,no,no,never,4,Not a transfer,Transferred out to acute are hospital,69000
+67,Female,White,9,ICD-10-PCS,9548209720,1,1,Medicare,None,no,no,no,no,no,no,current,3,Transferred from another health facility,Not a transfer,59000
+58,Male,Asian or Pacific Islander,1,ICD-10-CM/PCS,6888287248,1,1,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,yes,current,3,Not a transfer,Transferred out to acute are hospital,8000
+59,Female,Black,1,ICD-10-CM,8611334999,1,1,Medicaid,COBRA Coverage,yes,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,50500
+44,Female,Black,8,ICD-10-PCS,2490177358,2,2,Medicaid,Government Programs,no,no,no,no,no,no,former,4,Transferred from another health facility,Transferred out to acute are hospital,62000
+19,Female,Other,3,ICD-10-PCS,4357718798,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,never,4,Not a transfer,Transferred out to another health facility,61000
+25,Other,Other,5,ICD-10-CM/PCS,4478832203,1,3,Other,None,no,no,no,no,no,no,current,4,Not a transfer,Not a transfer,11000
+51,Female,Native American,1,ICD-10-CM/PCS,1963717552,2,1,Medicaid,COBRA Coverage,no,no,yes,no,yes,yes,never,4,Not a transfer,Transferred out to another health facility,14500
+77,Female,Hispanic,5,ICD-10-PCS,3166823552,2,2,Medicare,None,no,no,no,no,no,no,former,3,Transferred from another health facility,Transferred out to acute are hospital,59000
+57,Female,Native American,6,ICD-10-CM,6415306286,1,3,Medicaid,None,no,no,yes,no,no,no,current,4,Not a transfer,Transferred out to another health facility,47000
+13,Male,Asian or Pacific Islander,8,ICD-10-PCS,9628963130,1,3,Private including HMO,Government Programs,yes,no,no,no,no,yes,current,3,Transferred from acute care hospital,Transferred out to another health facility,58000
+78,Male,Native American,3,ICD-10-CM/PCS,7208451729,2,3,Medicare,COBRA Coverage,no,no,yes,no,no,no,never,4,Transferred from another health facility,Transferred out to another health facility,3500
+56,Other,White,3,ICD-10-CM/PCS,3444723164,1,3,Medicare,Employer-Sponsored Plans,yes,yes,no,no,no,no,current,4,Transferred from another health facility,Not a transfer,7000
+61,Other,Asian or Pacific Islander,9,ICD-10-PCS,9022911403,1,1,Medicaid,Government Programs,no,yes,yes,no,yes,no,current,4,Not a transfer,Transferred out to another health facility,72000
+30,Male,Other,4,ICD-10-CM,6892882246,2,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,41000
+45,Other,Black,4,ICD-10-PCS,4723995130,2,3,No charge,Secondary Health Insurance,no,yes,no,yes,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,76000
+39,Male,Other,7,ICD-10-PCS,2047951853,2,3,No charge,None,no,no,yes,no,no,yes,current,4,Transferred from another health facility,Transferred out to another health facility,79000
+67,Female,Hispanic,2,ICD-10-CM/PCS,6358537092,1,2,Medicare,Secondary Health Insurance,no,yes,no,no,yes,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,2000
+29,Female,Asian or Pacific Islander,8,ICD-10-CM,6789839067,2,1,Medicaid,None,yes,yes,no,no,no,no,never,4,Not a transfer,Transferred out to another health facility,51000
+79,Other,Asian or Pacific Islander,6,ICD-9-CM,9141349891,2,3,Medicare,Government Programs,no,no,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,30000
+42,Male,White,3,ICD-10-CM,7554523882,1,1,Medicaid,Employer-Sponsored Plans,no,no,yes,yes,no,yes,current,4,Transferred from acute care hospital,Transferred out to acute are hospital,51000
+6,Male,Hispanic,9,ICD-10-PCS,8248913557,1,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,former,4,Not a transfer,Transferred out to another health facility,65000
+11,Other,Black,5,ICD-10-PCS,1221866661,2,1,Medicaid,Government Programs,yes,no,yes,no,no,yes,former,3,Transferred from acute care hospital,Transferred out to another health facility,71000
+38,Male,Asian or Pacific Islander,8,ICD-10-PCS,9801652803,2,1,Medicaid,COBRA Coverage,no,no,yes,yes,no,yes,never,3,Transferred from another health facility,Not a transfer,68500
+21,Female,Asian or Pacific Islander,7,ICD-10-CM,2518155776,1,3,No charge,Secondary Health Insurance,no,yes,no,no,no,no,current,3,Transferred from another health facility,Transferred out to acute are hospital,46000
+47,Other,White,8,ICD-10-CM/PCS,6672507524,1,3,Other,Secondary Health Insurance,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to another health facility,3000
+63,Other,Native American,7,ICD-10-PCS,6624128869,2,1,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,current,3,Not a transfer,Not a transfer,62000
+55,Male,Black,3,ICD-10-PCS,7204994121,2,1,Medicaid,Employer-Sponsored Plans,no,no,yes,no,no,yes,never,3,Not a transfer,Transferred out to another health facility,65000
+58,Other,Other,2,ICD-10-CM,2037669571,1,2,Medicaid,Employer-Sponsored Plans,no,no,no,no,no,yes,never,4,Not a transfer,Transferred out to another health facility,45000
+28,Male,Hispanic,7,ICD-9-CM,4075130846,2,2,Medicaid,Government Programs,no,no,no,no,no,yes,current,4,Not a transfer,Transferred out to another health facility,36000
+29,Male,Asian or Pacific Islander,3,ICD-9-CM,9970375670,1,2,Medicaid,COBRA Coverage,no,yes,no,no,no,no,former,3,Transferred from acute care hospital,Transferred out to another health facility,30500
+75,Male,Asian or Pacific Islander,3,ICD-10-CM/PCS,5570251973,2,3,Medicare,Secondary Health Insurance,no,yes,no,no,no,no,current,4,Transferred from another health facility,Transferred out to another health facility,0
+56,Male,Other,2,ICD-10-CM/PCS,7855380453,1,2,Medicaid,None,no,no,no,yes,yes,no,current,4,Transferred from acute care hospital,Not a transfer,13000
+74,Male,Black,4,ICD-10-PCS,4176476985,1,3,Medicare,Government Programs,no,no,no,no,no,yes,former,4,Transferred from another health facility,Transferred out to another health facility,64000
+37,Other,Native American,8,ICD-10-CM,8909706283,2,3,Medicaid,Secondary Health Insurance,no,yes,no,no,yes,no,current,4,Transferred from another health facility,Not a transfer,46000
+53,Female,Asian or Pacific Islander,1,ICD-10-PCS,9720303181,2,3,Self-Pay,COBRA Coverage,no,no,no,no,no,yes,current,4,Transferred from acute care hospital,Transferred out to another health facility,73500
+33,Female,Black,1,ICD-10-CM/PCS,8919115953,1,3,Medicaid,Government Programs,no,yes,no,no,yes,no,current,3,Transferred from acute care hospital,Not a transfer,7000
+67,Other,Other,5,ICD-10-CM,2977098225,2,2,Medicare,Secondary Health Insurance,no,no,no,no,no,no,former,3,Not a transfer,Transferred out to acute are hospital,34000
+26,Other,White,5,ICD-10-CM,9389390409,2,1,Medicaid,Government Programs,no,no,no,no,yes,no,current,3,Transferred from another health facility,Transferred out to another health facility,44000
+30,Female,Native American,1,ICD-10-CM/PCS,9902030914,2,1,Medicaid,Secondary Health Insurance,no,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,1000
+32,Female,Hispanic,6,ICD-9-CM,1855099723,1,1,Medicaid,Secondary Health Insurance,yes,no,no,no,no,yes,current,3,Not a transfer,Transferred out to acute are hospital,35000
+53,Female,Asian or Pacific Islander,1,ICD-9-CM,2493885615,2,2,Medicaid,COBRA Coverage,no,no,no,no,no,no,current,3,Transferred from acute care hospital,Transferred out to acute are hospital,28500

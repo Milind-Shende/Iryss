@@ -1,0 +1,6 @@
+setup.py
+Iryss.egg-info/PKG-INFO
+Iryss.egg-info/SOURCES.txt
+Iryss.egg-info/dependency_links.txt
+Iryss.egg-info/requires.txt
+Iryss.egg-info/top_level.txt
