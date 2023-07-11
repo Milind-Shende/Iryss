@@ -59,13 +59,22 @@ class DataTransformation:
             logging.info(X_train.shape)
             logging.info(y_train.shape)
 
+            logging.info("Transforming X_train Column Transform")
+            X_train=transformer.fit_transform(X_train)
+            
+
             logging.info("Spliting Test Into X_test And y_test")
             
             X_test = test_df.drop(TARGET_COLUMN,axis=1)
             y_test = test_df[TARGET_COLUMN]
 
             logging.info(X_test.shape)
-            logging.info(y_test.shape)    
+            logging.info(y_test.shape)
+
+            logging.info("Transforming X_train Column Transform")
+            X_test=transformer.transform(X_test)
+
+                
 
             logging.info("train and test array concatenate")
             #train and test array

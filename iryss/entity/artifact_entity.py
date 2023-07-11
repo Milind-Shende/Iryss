@@ -11,4 +11,14 @@ class DataTransformationArtifact:
     transform_object_path:str
     transformed_train_path:str
     transformed_test_path:str
-    # onehot_encoder_path:str
+    
+@dataclass   
+class ModelTrainerArtifact:
+    model_path:str
+    train_score:float
+    test_score:float
+
+@dataclass
+class ModelEvaluationArtifact:
+    is_model_accepted:bool
+    improved_accuracy:float
