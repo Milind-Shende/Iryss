@@ -10,7 +10,7 @@ from iryss.components.model_evaluation import ModelEvaluation
 from iryss.components.model_pusher import ModelPusher
 
 
-if __name__=="__main__":
+def start_training_pipeline():
     try:
         training_pipeline_config = config_entity.TrainingPipelineConfig()
 
@@ -46,6 +46,5 @@ if __name__=="__main__":
                 model_trainer_artifact=model_trainer_artifact)
 
         model_pusher_artifact = model_pusher.initiate_model_pusher()
-
     except Exception as e:
         raise IryssException(e, sys)

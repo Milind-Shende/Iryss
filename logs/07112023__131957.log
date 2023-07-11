@@ -1,0 +1,66 @@
+[ 2023-07-11 13:20:31,731 ] 15 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Data Ingestion <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2023-07-11 13:20:31,732 ] 22 root - INFO - Exporting collection data as pandas dataframe
+[ 2023-07-11 13:20:31,732 ] 21 root - INFO - Reading data from database: OmdenaIryss and collection: Iryss
+[ 2023-07-11 13:20:32,495 ] 23 root - INFO - Found columns: Index(['_id', 'AGE', 'SEX', 'RACE', 'HOSPID', 'DRG', 'NPR', 'NCHRONIC',
+       'ZIPINC_QRTL', 'PAY1', 'PAY2', 'CM_AIDS', 'CM_ALCOHOL', 'CM_ANEMDEF',
+       'CM_ARTH', 'CM_BLDLOSS', 'CM_CHF', 'CM_DRUG', 'DXn', 'TRAN_IN',
+       'TRAN_OUT', 'TOTCHG'],
+      dtype='object')
+[ 2023-07-11 13:20:32,518 ] 25 root - INFO - Dropping column: _id 
+[ 2023-07-11 13:20:32,557 ] 27 root - INFO - Row and columns in df: (1000, 21)
+[ 2023-07-11 13:20:32,558 ] 30 root - INFO - Create feature store folder if not available
+[ 2023-07-11 13:20:32,578 ] 34 root - INFO - Save df to feature store folder
+[ 2023-07-11 13:20:32,652 ] 39 root - INFO - split dataset into train and test set
+[ 2023-07-11 13:20:32,657 ] 43 root - INFO - create dataset directory folder if not available
+[ 2023-07-11 13:20:32,657 ] 48 root - INFO - Save df to feature store folder
+[ 2023-07-11 13:20:32,680 ] 60 root - INFO - Data ingestion artifact: DataIngestionArtifact(feature_store_file_path='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\data_ingestion\\feature_store\\Iryss.csv', train_file_path='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\data_ingestion\\dataset\\train.csv', test_file_path='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\data_ingestion\\dataset\\test.csv')
+[ 2023-07-11 13:20:32,682 ] 20 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Data Transformation <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2023-07-11 13:20:32,682 ] 30 root - INFO - Reading Train And Test File
+[ 2023-07-11 13:20:32,797 ] 33 root - INFO - (800, 21)
+[ 2023-07-11 13:20:32,797 ] 34 root - INFO - (200, 21)
+[ 2023-07-11 13:20:32,797 ] 37 root - INFO - Numerical Column['AGE', 'HOSPID', 'NPR', 'NCHRONIC', 'ZIPINC_QRTL', 'DXn']
+[ 2023-07-11 13:20:32,797 ] 41 root - INFO - CategoricalColumn['RACE', 'DRG', 'PAY1', 'PAY2', 'CM_AIDS', 'CM_ALCOHOL', 'CM_ANEMDEF', 'CM_ARTH', 'CM_BLDLOSS', 'CM_CHF', 'CM_DRUG', 'TRAN_IN', 'TRAN_OUT']
+[ 2023-07-11 13:20:32,798 ] 44 root - INFO - Numerical and Categorical Pipeline Transformation
+[ 2023-07-11 13:20:32,798 ] 48 root - INFO - Numerical and Categorical Column Transformation
+[ 2023-07-11 13:20:32,798 ] 54 root - INFO - Spliting Train Into X_train And y_train
+[ 2023-07-11 13:20:32,800 ] 59 root - INFO - (800, 20)
+[ 2023-07-11 13:20:32,800 ] 60 root - INFO - (800,)
+[ 2023-07-11 13:20:32,800 ] 62 root - INFO - Transforming X_train Column Transform
+[ 2023-07-11 13:20:32,976 ] 66 root - INFO - Spliting Test Into X_test And y_test
+[ 2023-07-11 13:20:32,978 ] 71 root - INFO - (200, 20)
+[ 2023-07-11 13:20:32,979 ] 72 root - INFO - (200,)
+[ 2023-07-11 13:20:32,979 ] 74 root - INFO - Transforming X_train Column Transform
+[ 2023-07-11 13:20:33,039 ] 79 root - INFO - train and test array concatenate
+[ 2023-07-11 13:20:33,040 ] 86 root - INFO - Saved train and test array to save_numpy_array_data
+[ 2023-07-11 13:20:33,127 ] 53 root - INFO - Entered the save_object method of utils
+[ 2023-07-11 13:20:33,148 ] 57 root - INFO - Exited the save_object method of utils
+[ 2023-07-11 13:20:33,148 ] 102 root - INFO - Data transformation object DataTransformationArtifact(transform_object_path='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\data_transformation\\transformer\\transformer.pkl', transformed_train_path='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\data_transformation\\train.npz', transformed_test_path='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\data_transformation\\test.npz')
+[ 2023-07-11 13:20:33,149 ] 18 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Model Trainer<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2023-07-11 13:20:33,149 ] 36 root - INFO - Loading train and test array.
+[ 2023-07-11 13:20:33,211 ] 40 root - INFO - Splitting input and target feature from both train and test arr.
+[ 2023-07-11 13:20:33,211 ] 44 root - INFO - Train the model
+[ 2023-07-11 13:20:33,211 ] 27 root - INFO - Training Model With XgboostRegression
+[ 2023-07-11 13:20:33,652 ] 59 root - INFO - train score:0.98651580426875 and tests score 0.9763595174500151
+[ 2023-07-11 13:20:33,653 ] 68 root - INFO - Checking if our model is underfitting or not
+[ 2023-07-11 13:20:33,653 ] 72 root - INFO - Checking if model is overfitting or not
+[ 2023-07-11 13:20:33,653 ] 79 root - INFO - Saving model object
+[ 2023-07-11 13:20:33,653 ] 53 root - INFO - Entered the save_object method of utils
+[ 2023-07-11 13:20:33,672 ] 57 root - INFO - Exited the save_object method of utils
+[ 2023-07-11 13:20:33,672 ] 83 root - INFO - Prepare the artifact
+[ 2023-07-11 13:20:33,672 ] 85 root - INFO - Model trainer artifact: ModelTrainerArtifact(model_path='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\model_trainer\\model\\model.pkl', train_score=0.98651580426875, test_score=0.9763595174500151)
+[ 2023-07-11 13:20:33,673 ] 22 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Model Evaluation<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2023-07-11 13:20:33,673 ] 37 root - INFO - if saved model folder has model then we will compare which model is best trained or the model from saved model folder
+[ 2023-07-11 13:20:33,673 ] 43 root - INFO - Model evaluation artifact: ModelEvaluationArtifact(is_model_accepted=True, improved_accuracy=None)
+[ 2023-07-11 13:20:33,674 ] 14 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Model Pusher <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2023-07-11 13:20:33,674 ] 25 root - INFO - Loading transformer model and target encoder
+[ 2023-07-11 13:20:33,742 ] 31 root - INFO - Saving model into model pusher directory
+[ 2023-07-11 13:20:33,742 ] 53 root - INFO - Entered the save_object method of utils
+[ 2023-07-11 13:20:33,752 ] 57 root - INFO - Exited the save_object method of utils
+[ 2023-07-11 13:20:33,753 ] 53 root - INFO - Entered the save_object method of utils
+[ 2023-07-11 13:20:33,759 ] 57 root - INFO - Exited the save_object method of utils
+[ 2023-07-11 13:20:33,759 ] 37 root - INFO - Saving model in saved model dir
+[ 2023-07-11 13:20:33,760 ] 53 root - INFO - Entered the save_object method of utils
+[ 2023-07-11 13:20:33,769 ] 57 root - INFO - Exited the save_object method of utils
+[ 2023-07-11 13:20:33,770 ] 53 root - INFO - Entered the save_object method of utils
+[ 2023-07-11 13:20:33,775 ] 57 root - INFO - Exited the save_object method of utils
+[ 2023-07-11 13:20:33,775 ] 48 root - INFO - Model pusher artifact: ModelPusherArtifact(pusher_model_dir='D:\\Project\\Omdena_Iryss\\artifact\\07112023__132031\\model_pusher\\saved_models', saved_model_dir='saved_models')
