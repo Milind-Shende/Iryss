@@ -1,0 +1,21 @@
+AGE:-Age:-56
+SEX:- Gender("SEX",('MALE', 'FEMALE',Other)):-other
+RACE:-Person Belongs to which Region("RACE",('Black', 'Other', 'White', 'Hispanic', 'Native American','Asian or Pacific Islander')):-Black
+HOSPID:- Hospital ID:-2
+DRG:-Diagnosis_realated_group("DRUG",('ICD-10-CM', 'ICD-10-CM/PCS', 'ICD-9-CM', 'ICD-10-PCS')):-ICD-10-CM
+NPR:-Net_patient-revenue("NPR"):-1365516690
+NCHRONIC:-Chronic("NCHRONIC",("1","2")):-1
+ZIPINC_QRTL:- ("ZIPINC_QRTL",("1","2","3")):-3
+PAY1:-Payment through("PAY1",('Medicare', 'Medicaid', 'Private including HMO', 'Self-Pay','No charge', 'Other')):-Medicare
+PAY2:-Agency("PAY2", ('COBRA Coverage', 'Secondary Health Insurance','Employer-Sponsored Plans', 'Government Programs','NONE')):-None
+CM_AIDS:-Having Aids(Yes,No)("CM_AIDS",("yes","no"))
+CM_ALCOHOL:-Alcohol Cumsumption(Yes,No)("CM_ALCOHOL", ("yes","no"))
+CM_ANEMDEF:-Congenital Monosomy with Anemia and Defects(Yes,No)("CM_ANEMDEF",("yes","no"))
+CM_ARTH:-Arthritis (Yes,No)("CM_ARTH", ("yes","no"))
+CM_BLDLOSS:-Blood Loss(Yes,No)("CM_BLDLOSS",("yes","no"))
+CM_CHF:-Congestive heart Failure(Yes,No)("CM_CHF", ("yes","no"))
+CM_DRUG:-Drug Intake(current,never,former)("CM_DRUG",('current', 'never', 'former'))
+DXn:-Nature of a disease diagnosis Stages of Cancer("DXn",('3', '4'))
+TRAN_IN:-Transfer patient In("TRAN_IN",('Transferred from acute care hospital', 'Not a transfer','Transferred from another health facility', 'Transferred from '))
+TRAN_OUT:Transfer patient Out("TRAN_OUT",('Not a transfer', 'Transferred out to acute are hospital','Transferred out to another health facility'))
+TOTCHG:- Total Charge ("Total Charge Prediction")
