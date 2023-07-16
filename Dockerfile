@@ -7,6 +7,7 @@ WORKDIR /app
 # Copy the requirements file to the working directory
 COPY requirements.txt .
 
+# Copy the setup.py
 COPY setup.py .
 
 RUN pip install --upgrade pip
