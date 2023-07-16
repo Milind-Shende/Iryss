@@ -1,6 +1,6 @@
 Step 1:- Create Conda Virtual Environment before Start of Project
 ```
-conda create -p OIvenv python=3.8
+conda create -p OIvenv python=3.8 -y
 
 ```
 Step 2:- Activate Conda Environment
